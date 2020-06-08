@@ -14,6 +14,9 @@ def runouts_scrape():
     playerID = idDict[row['Batsman1']]
     player = row['Batsman1']
 
+    print(f'Finding runouts for {len(idDict)} unique players')
+
+
     allDFlist = []
     ## iterate through players and create a df for each containing the runouts
     for player in idDict:
@@ -37,9 +40,8 @@ def runouts_scrape():
         df.drop(df.index[:10],inplace=True)
         df.reset_index(inplace=True,drop=True)
 
-        print(df.head())
-
-        print(df.columns)
+        if 'Partner' not in df.columns:
+            continue
         finalInd = df[df['Partner']==''].index[0]
         df.drop(df.index[finalInd:],inplace=True)
 
@@ -76,7 +78,9 @@ def runouts_scrape():
     allDF['Match'] = allDF.apply(lambda row: row['Match'].split(' # ')[1], axis=1)
     allDF['Opposition'] = allDF.apply(lambda row: row['Opposition'].split(' v ')[-1],axis = 1)
 
-    df.to_csv(f'../data/playerRunouts.csv')
+    allDF.reset_index(inplace=True,drop=True)
+
+    allDF.to_csv(f'../data/playerRunouts.csv')
 
 if __name__ == '__main__':
     runouts_scrape()
