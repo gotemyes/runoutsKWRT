@@ -1306,3 +1306,959 @@
 1304,Fakhar Zaman,1,128,-,1/128,1,India,The Oval,18 Jun 2017,3894,Azhar Ali,False,ODI
 1305,Asad Shafiq,4,6,3/154,4/160,3,Australia,Abu Dhabi,16 Oct 2018,2322,Azhar Ali,False,Test
 1306,Haris Sohail,3,126,2/25,3/151,1,New Zealand,Dubai (DSC),24 Nov 2018,2330,Azhar Ali,False,Test
+1307,DPMD Jayawardene,4,18,3/41,4/59,4,Pakistan,Karachi,12 Mar 2000,1489,TM Dilshan,False,Test
+1308,KC Sangakkara,6,47,5/112,6/159,1,South Africa,Port Elizabeth,15 Dec 2000,1661,TM Dilshan,False,ODI
+1309,UDU Chandana,6,8,5/150,6/158,2,Australia,Colombo (RPS),27 Feb 2004,2106,TM Dilshan,False,ODI
+1310,SHT Kandamby,4,9,3/128,4/137,1,Zimbabwe,Harare,29 Apr 2004,2124,TM Dilshan,False,ODI
+1311,TT Samaraweera,5,56,4/42,5/98,1,West Indies,Kandy,22 Jul 2005,1757,TM Dilshan,False,Test
+1312,RP Arnold,6,11,5/194,6/205,1,West Indies,Dambulla,2 Aug 2005,2264,TM Dilshan,False,ODI
+1313,UDU Chandana,8,29,7/132,8/161,1,India,Rajkot,9 Nov 2005,2295,TM Dilshan,False,ODI
+1314,CK Kapugedera,6,54,5/170,6/224,1,Australia,Perth,29 Jan 2006,2320,TM Dilshan,False,ODI
+1315,M Muralitharan,10,5,9/216,10/221,1,South Africa,Perth,31 Jan 2006,2321,TM Dilshan,False,ODI
+1316,DPMD Jayawardene,5,4,4/81,5/85,2,England,Lord's,11 May 2006,1802,TM Dilshan,False,Test
+1317,LPC Silva,6,7,5/51,6/58,1,New Zealand,Auckland,26 Dec 2006,12,TM Dilshan,False,T20I
+1318,MF Maharoof,7,24,6/68,7/92,1,New Zealand,Christchurch,2 Jan 2007,2470,TM Dilshan,False,ODI
+1319,LPC Silva,5,18,4/175,5/193,1,England,North Sound,4 Apr 2007,2563,TM Dilshan,False,ODI
+1320,LPC Silva,5,32,4/156,5/188,2,Australia,Bridgetown,28 Apr 2007,2581,TM Dilshan,False,ODI
+1321,DPMD Jayawardene,5,17,4/304,5/321,2,Bangladesh,Colombo (SSC),25 Jun 2007,1837,TM Dilshan,False,Test
+1322,LPC Silva,5,23,4/108,5/131,1,England,Colombo (RPS),13 Oct 2007,2630,TM Dilshan,False,ODI
+1323,DPMD Jayawardene,5,149,4/138,5/287,1,England,Galle,18 Dec 2007,1854,TM Dilshan,False,Test
+1324,LPC Silva,6,60,5/125,6/185,1,Australia,Melbourne,29 Feb 2008,2687,TM Dilshan,False,ODI
+1325,KC Sangakkara,5,4,4/263,5/267,1,Bangladesh,Karachi,30 Jun 2008,2726,TM Dilshan,False,ODI
+1326,ST Jayasuriya,1,0,-,1/0,1,India,Dambulla,28 Jan 2009,2806,TM Dilshan,False,ODI
+1327,DPMD Jayawardene,4,0,3/255,4/255,1,India,Colombo (RPS),8 Feb 2009,2818,TM Dilshan,False,ODI
+1328,M Muralitharan,8,6,7/566,8/572,1,Pakistan,Lahore,1 Mar 2009,1912,TM Dilshan,False,Test
+1329,AD Mathews,3,58,2/39,3/97,1,India,Bulawayo,30 May 2010,2983,TM Dilshan,False,ODI
+1330,KC Sangakkara,2,87,1/15,2/102,1,India,Colombo (PSS),3 Aug 2010,1968,TM Dilshan,False,Test
+1331,DPMD Jayawardene,1,15,-,1/15,1,England,Leeds,1 Jul 2011,3167,TM Dilshan,False,ODI
+1332,WU Tharanga,1,0,-,1/0,1,South Africa,East London,14 Jan 2012,3226,TM Dilshan,False,ODI
+1333,DPMD Jayawardene,1,4,-,1/4,2,South Africa,Hambantota,22 Sep 2012,269,TM Dilshan,False,T20I
+1334,AD Mathews,4,30,3/131,4/161,2,New Zealand,Pallekele,27 Sep 2012,275,TM Dilshan,False,T20I
+1335,LD Chandimal,3,94,2/17,3/111,2,Australia,Melbourne,11 Jan 2013,3317,TM Dilshan,False,ODI
+1336,KC Sangakkara,2,16,1/49,2/65,2,Pakistan,Dubai (DSC),20 Dec 2013,3446,TM Dilshan,False,ODI
+1337,HDRL Thirimanne,4,42,3/49,4/91,1,West Indies,Dhaka,3 Apr 2014,398,TM Dilshan,False,T20I
+1338,KC Sangakkara,2,50,1/57,2/107,2,South Africa,Hambantota,12 Jul 2014,3502,TM Dilshan,False,ODI
+1339,MDKJ Perera,1,164,-,1/164,1,Pakistan,Hambantota,26 Jul 2015,3672,TM Dilshan,False,ODI
+1340,HDRL Thirimanne,2,111,1/98,2/209,2,New Zealand,Nelson,31 Dec 2015,3717,TM Dilshan,False,ODI
+1341,MJ Slater,6,0,5/237,6/237,1,South Africa,Guwahati,1 Nov 1996,1134,AC Gilchrist,False,ODI
+1342,MG Bevan,6,6,5/163,6/169,1,South Africa,East London,29 Mar 1997,1186,AC Gilchrist,False,ODI
+1343,IJ Harvey,4,12,3/209,4/221,2,New Zealand,Adelaide,7 Dec 1997,1256,AC Gilchrist,False,ODI
+1344,SR Waugh,4,20,3/50,4/70,2,West Indies,Georgetown,21 Apr 1999,1440,AC Gilchrist,False,ODI
+1345,RT Ponting,2,2,1/60,2/62,1,Sri Lanka,Galle,22 Aug 1999,1485,AC Gilchrist,False,ODI
+1346,ME Waugh,1,1,-,1/1,1,South Africa,Melbourne (Docklands),16 Aug 2000,1620,AC Gilchrist,False,ODI
+1347,RT Ponting,2,44,1/28,2/72,1,West Indies,Sydney,7 Feb 2001,1685,AC Gilchrist,False,ODI
+1348,DR Martyn,3,0,2/44,3/44,2,Pakistan,Brisbane,19 Jun 2002,1846,AC Gilchrist,False,ODI
+1349,RT Ponting,2,106,1/75,2/181,1,Sri Lanka,Centurion,7 Mar 2003,1982,AC Gilchrist,False,ODI
+1350,MS Kasprowicz,9,47,8/154,9/201,3,Sri Lanka,Darwin,1 Jul 2004,1705,AC Gilchrist,False,Test
+1351,MJ Clarke,5,101,4/81,5/182,2,West Indies,Mumbai (BS),18 Oct 2006,2432,AC Gilchrist,False,ODI
+1352,ML Hayden,1,32,-,1/32,2,England,Adelaide,26 Jan 2007,2486,AC Gilchrist,False,ODI
+1353,ML Hayden,1,104,-,1/104,2,Bangladesh,Cape Town,16 Sep 2007,33,AC Gilchrist,False,T20I
+1354,MS Dhoni,3,23,2/136,3/159,1,Hong Kong,Karachi,25 Jun 2008,2716,RG Sharma,False,ODI
+1355,Yuvraj Singh,4,5,3/99,4/104,2,Sri Lanka,Nagpur,9 Dec 2009,126,RG Sharma,False,T20I
+1356,RA Jadeja,5,3,4/92,5/95,1,Zimbabwe,Harare,3 Jun 2010,2986,RG Sharma,False,ODI
+1357,PP Ojha,10,14,9/195,10/209,1,Sri Lanka,Dambulla,22 Jun 2010,2999,RG Sharma,False,ODI
+1358,A Mithun,9,16,8/200,9/216,2,West Indies,Ahmedabad,5 Dec 2011,3221,RG Sharma,False,ODI
+1359,G Gambhir,3,33,2/61,3/94,2,Sri Lanka,Adelaide,14 Feb 2012,3239,RG Sharma,False,ODI
+1360,MS Dhoni,5,8,4/259,5/267,1,Bangladesh,Dhaka,16 Mar 2012,3261,RG Sharma,False,ODI
+1361,RA Jadeja,7,1,6/122,7/123,1,Pakistan,Bengaluru,25 Dec 2012,296,RG Sharma,False,T20I
+1362,SK Raina,4,5,3/60,4/65,2,South Africa,Johannesburg,5 Dec 2013,3442,RG Sharma,False,ODI
+1363,S Dhawan,1,9,-,1/9,1,South Africa,Melbourne,22 Feb 2015,3610,RG Sharma,False,ODI
+1364,SK Raina,3,13,2/30,3/43,1,South Africa,Cuttack,5 Oct 2015,457,RG Sharma,False,T20I
+1365,AM Rahane,3,121,2/134,3/255,1,Australia,Brisbane,15 Jan 2016,3724,RG Sharma,False,ODI
+1366,V Kohli,2,46,1/97,2/143,1,Australia,Melbourne,29 Jan 2016,486,RG Sharma,False,T20I
+1367,V Kohli,2,56,1/136,2/192,1,Pakistan,Birmingham,4 Jun 2017,3878,RG Sharma,False,ODI
+1368,S Dhawan,1,23,-,1/23,2,Sri Lanka,Dambulla,20 Aug 2017,3905,RG Sharma,False,ODI
+1369,V Kohli,2,29,1/106,2/135,2,Australia,Bengaluru,28 Sep 2017,3917,RG Sharma,False,ODI
+1370,KD Karthik,3,4,2/172,3/176,1,Bangladesh,Colombo (RPS),14 Mar 2018,660,RG Sharma,False,T20I
+1371,S Dhawan,1,25,-,1/25,2,West Indies,Port of Spain,14 Aug 2019,4199,RG Sharma,False,ODI
+1372,V Kohli,2,129,1/34,2/163,1,Pakistan,Adelaide,15 Feb 2015,3602,S Dhawan,False,ODI
+1373,RG Sharma,1,22,-,1/22,1,South Africa,Dharamsala,2 Oct 2015,456,S Dhawan,False,T20I
+1374,RR Pant,2,1,1/64,2/65,1,West Indies,Kingston,9 Jul 2017,617,S Dhawan,False,T20I
+1375,V Kohli,2,34,1/33,2/67,2,South Africa,Durban,1 Feb 2018,3969,S Dhawan,False,ODI
+1376,HH Pandya,4,15,3/111,4/126,1,South Africa,Cape Town,24 Feb 2018,655,S Dhawan,False,T20I
+1377,KL Rahul,2,15,1/7,2/22,1,England,Cardiff,6 Jul 2018,688,S Dhawan,False,T20I
+1378,V Kohli,2,71,1/13,2/84,1,England,Leeds,17 Jul 2018,4018,S Dhawan,False,ODI
+1379,RG Sharma,1,210,-,1/210,2,Pakistan,Dubai (DSC),23 Sep 2018,4044,S Dhawan,False,ODI
+1380,RR Pant,4,25,3/70,4/95,1,Bangladesh,Delhi,3 Nov 2019,1000,S Dhawan,False,T20I
+1381,AB de Villiers,4,5,3/205,4/210,1,India,Rajkot,18 Oct 2015,3695,Q de Kock,False,ODI
+1382,HM Amla,1,15,-,1/15,2,Sri Lanka,Delhi,28 Mar 2016,554,Q de Kock,False,T20I
+1383,RR Hendricks,2,16,1/14,2/30,1,Sri Lanka,Colombo (RPS),14 Aug 2018,695,Q de Kock,False,T20I
+1384,RR Hendricks,2,26,1/53,2/79,2,Pakistan,Centurion,25 Jan 2019,4084,Q de Kock,False,ODI
+1385,AK Markram,1,49,-,1/49,2,Bangladesh,The Oval,2 Jun 2019,4147,Q de Kock,False,ODI
+1386,GJ Crocker,6,58,5/123,6/181,2,India,Harare,25 Oct 1992,764,A Flower,False,ODI
+1387,GW Flower,1,121,-,1/121,2,Pakistan,Sharjah,1 Feb 1993,796,A Flower,False,ODI
+1388,GW Flower,1,58,-,1/58,1,India,Pune,25 Mar 1993,823,A Flower,False,ODI
+1389,ADR Campbell,2,16,1/6,2/22,2,Sri Lanka,Patna,15 Nov 1993,850,A Flower,False,ODI
+1390,GW Flower,1,19,-,1/19,1,Sri Lanka,Colombo (SSC),21 Feb 1996,1055,A Flower,False,ODI
+1391,CB Wishart,5,2,4/121,5/123,1,Sri Lanka,Colombo (SSC),18 Sep 1996,1334,A Flower,False,Test
+1392,GW Flower,2,15,1/17,2/32,1,India,Paarl,27 Jan 1997,1169,A Flower,False,ODI
+1393,AC Waller,2,48,1/1,2/49,1,South Africa,Cape Town,29 Jan 1997,1170,A Flower,False,ODI
+1394,GJ Whittall,2,29,1/63,2/92,2,New Zealand,Harare,5 Oct 1997,1238,A Flower,False,ODI
+1395,GJ Whittall,5,70,4/127,5/197,1,New Zealand,Christchurch,4 Mar 1998,1294,A Flower,False,ODI
+1396,CN Evans,4,7,3/219,4/226,2,Australia,Delhi,11 Apr 1998,1313,A Flower,False,ODI
+1397,SV Carlisle,5,33,4/229,5/262,1,Bangladesh,Dhaka,21 Mar 1999,1414,A Flower,False,ODI
+1398,GW Flower,4,32,3/47,4/79,1,England,Nottingham,25 May 1999,1461,A Flower,False,ODI
+1399,GJ Whittall,5,11,4/175,5/186,1,South Africa,Chelmsford,29 May 1999,1468,A Flower,False,ODI
+1400,MW Goodwin,4,17,3/111,4/128,2,Sri Lanka,Harare,19 Dec 1999,1531,A Flower,False,ODI
+1401,SV Carlisle,6,23,5/97,6/120,2,South Africa,Port Elizabeth,6 Feb 2000,1558,A Flower,False,ODI
+1402,MW Goodwin,4,25,3/79,4/104,2,West Indies,Chester-le-Street,16 Jul 2000,1616,A Flower,False,ODI
+1403,SV Carlisle,3,154,2/48,3/202,1,New Zealand,Taupo,2 Jan 2001,1663,A Flower,False,ODI
+1404,ADR Campbell,4,46,3/164,4/210,2,Bangladesh,Harare,26 Apr 2001,1545,A Flower,False,Test
+1405,ADR Campbell,3,54,2/43,3/97,2,South Africa,Bulawayo,23 Sep 2001,1748,A Flower,False,ODI
+1406,SV Carlisle,3,34,2/176,3/210,2,Bangladesh,Dhaka,26 Nov 2001,1775,A Flower,False,ODI
+1407,T Taibu,5,33,4/65,5/98,1,New Zealand,Bloemfontein,8 Mar 2003,1984,A Flower,False,ODI
+1408,DL Houghton,2,6,1/124,2/130,1,New Zealand,Harare,8 Nov 1992,766,GW Flower,False,ODI
+1409,A Flower,1,60,-,1/60,1,Sri Lanka,Harare,5 Nov 1994,946,GW Flower,False,ODI
+1410,SV Carlisle,6,0,5/98,6/98,1,New Zealand,Wellington,31 Jan 1996,1046,GW Flower,False,ODI
+1411,GJ Whittall,2,32,1/19,2/51,1,Sri Lanka,Colombo (SSC),21 Feb 1996,1055,GW Flower,False,ODI
+1412,CB Wishart,1,39,-,1/39,2,Pakistan,Sharjah,6 Apr 1997,1192,GW Flower,False,ODI
+1413,GJ Rennie,1,75,-,1/75,3,New Zealand,Bulawayo,25 Sep 1997,1379,GW Flower,False,Test
+1414,GJ Rennie,2,150,1/18,2/168,1,Kenya,Nairobi (Gym),19 Oct 1997,1246,GW Flower,False,ODI
+1415,CB Wishart,1,15,-,1/15,1,New Zealand,Napier,6 Mar 1998,1295,GW Flower,False,ODI
+1416,GJ Whittall,4,128,3/110,4/238,1,Kenya,Dhaka,27 Mar 1999,1424,GW Flower,False,ODI
+1417,NC Johnson,1,10,-,1/10,1,New Zealand,Leeds,6 Jun 1999,1475,GW Flower,False,ODI
+1418,SV Carlisle,2,16,1/94,2/110,2,Sri Lanka,Harare,19 Dec 1999,1531,GW Flower,False,ODI
+1419,ADR Campbell,5,20,4/90,5/110,2,England,Birmingham,18 Jul 2000,1617,GW Flower,False,ODI
+1420,SV Carlisle,2,26,1/1,2/27,3,New Zealand,Harare,19 Sep 2000,1511,GW Flower,False,Test
+1421,HH Streak,5,10,4/278,5/288,2,Australia,Perth,4 Feb 2001,1683,GW Flower,False,ODI
+1422,HH Streak,6,2,5/218,6/220,1,Bangladesh,Harare,8 Apr 2001,1703,GW Flower,False,ODI
+1423,AM Blignaut,8,35,7/273,8/308,3,India,Bulawayo,7 Jun 2001,1548,GW Flower,False,Test
+1424,SV Carlisle,5,66,4/261,5/327,1,South Africa,Bulawayo,14 Sep 2001,1563,GW Flower,False,Test
+1425,DD Ebrahim,6,7,5/94,6/101,2,South Africa,Harare,29 Sep 2001,1749,GW Flower,False,ODI
+1426,CB Wishart,4,25,3/65,4/90,2,Sri Lanka,Sharjah,26 Oct 2001,1765,GW Flower,False,ODI
+1427,DA Marillier,5,10,4/159,5/169,2,Pakistan,Sharjah,31 Oct 2001,1770,GW Flower,False,ODI
+1428,DD Ebrahim,5,65,4/181,5/246,1,India,Delhi,28 Feb 2002,1591,GW Flower,False,Test
+1429,A Flower,4,23,3/143,4/166,2,India,Mohali,10 Mar 2002,1815,GW Flower,False,ODI
+1430,A Flower,3,84,2/43,3/127,2,India,Colombo (RPS),14 Sep 2002,1876,GW Flower,False,ODI
+1431,A Flower,3,1,2/16,3/17,2,Pakistan,Bulawayo,23 Nov 2002,1899,GW Flower,False,ODI
+1432,A Flower,3,84,2/28,3/112,1,Australia,Bulawayo,24 Feb 2003,1966,GW Flower,False,ODI
+1433,HH Streak,5,41,4/52,5/93,2,Australia,Hobart,16 Jan 2004,2082,GW Flower,False,ODI
+1434,MJ Greatbatch,1,28,-,1/28,1,India,Pune,24 Nov 1995,1017,NJ Astle,False,ODI
+1435,CM Spearman,1,1,-,1/1,1,Netherlands,Vadodara,17 Feb 1996,1051,NJ Astle,False,ODI
+1436,CM Spearman,1,7,-,1/7,1,South Africa,Faisalabad,20 Feb 1996,1054,NJ Astle,False,ODI
+1437,SP Fleming,3,1,2/104,3/105,1,West Indies,Port of Spain,30 Mar 1996,1086,NJ Astle,False,ODI
+1438,AC Parore,2,3,1/96,2/99,2,Pakistan,Karachi,8 Dec 1996,1150,NJ Astle,False,ODI
+1439,BA Pocock,2,34,1/2,2/36,2,Australia,Brisbane,7 Nov 1997,1383,NJ Astle,False,Test
+1440,CL Cairns,2,0,1/6,2/6,1,South Africa,Adelaide,6 Dec 1997,1255,NJ Astle,False,ODI
+1441,AC Parore,2,103,1/18,2/121,2,Zimbabwe,Wellington,6 Feb 1998,1289,NJ Astle,False,ODI
+1442,SP Fleming,3,116,2/5,3/121,2,Australia,Napier,12 Feb 1998,1292,NJ Astle,False,ODI
+1443,LG Howell,1,20,-,1/20,1,Australia,Sharjah,18 Apr 1998,1320,NJ Astle,False,ODI
+1444,SP Fleming,2,21,1/11,2/32,2,Zimbabwe,Dhaka,24 Oct 1998,1357,NJ Astle,False,ODI
+1445,MS Sinclair,4,189,3/240,4/429,1,West Indies,Wellington,26 Dec 1999,1478,NJ Astle,False,Test
+1446,CD McMillan,5,30,4/226,5/256,1,Zimbabwe,Harare,19 Sep 2000,1511,NJ Astle,False,Test
+1447,CM Spearman,2,11,1/3,2/14,2,Zimbabwe,Harare,27 Sep 2000,1627,NJ Astle,False,ODI
+1448,DL Vettori,8,10,7/198,8/208,1,India,Colombo (RPS),20 Jul 2001,1736,NJ Astle,False,ODI
+1449,SP Fleming,1,1,-,1/1,2,Sri Lanka,Bloemfontein,10 Feb 2003,1944,NJ Astle,False,ODI
+1450,MS Sinclair,1,72,-,1/72,1,Bangladesh,Dhaka,7 Nov 2004,2191,NJ Astle,False,ODI
+1451,MS Sinclair,4,61,3/77,4/138,1,Australia,Brisbane,18 Nov 2004,1721,NJ Astle,False,Test
+1452,L Vincent,5,30,4/85,5/115,3,Sri Lanka,Napier,4 Apr 2005,1746,NJ Astle,False,Test
+1453,BB McCullum,7,3,6/143,7/146,3,West Indies,Auckland,9 Mar 2006,1787,NJ Astle,False,Test
+1454,LRPL Taylor,2,151,1/18,2/169,1,Sri Lanka,Napier,28 Dec 2006,2468,NJ Astle,False,ODI
+1455,CZ Harris,5,26,4/204,5/230,1,India,Napier,25 Mar 1994,896,SP Fleming,False,ODI
+1456,KR Rutherford,4,6,3/70,4/76,2,India,Wellington,30 Mar 1994,898,SP Fleming,False,ODI
+1457,BA Young,3,114,2/26,3/140,2,Sri Lanka,Dunedin,18 Mar 1995,1293,SP Fleming,False,Test
+1458,CL Cairns,4,55,3/122,4/177,1,Sri Lanka,Christchurch,26 Mar 1995,990,SP Fleming,False,ODI
+1459,RG Twose,2,67,1/0,2/67,1,Zimbabwe,Hamilton,13 Jan 1996,1322,SP Fleming,False,Test
+1460,NJ Astle,2,21,1/40,2/61,1,Zimbabwe,Auckland,28 Jan 1996,1045,SP Fleming,False,ODI
+1461,BA Young,3,22,2/103,3/125,1,England,Napier,26 Feb 1997,1181,SP Fleming,False,ODI
+1462,CL Cairns,4,36,3/68,4/104,1,Sri Lanka,Christchurch,25 Mar 1997,1184,SP Fleming,False,ODI
+1463,NJ Astle,3,27,2/109,3/136,1,India,Bengaluru,14 May 1997,1206,SP Fleming,False,ODI
+1464,AC Parore,6,19,5/221,6/240,4,Zimbabwe,Bulawayo,25 Sep 1997,1379,SP Fleming,False,Test
+1465,CL Cairns,3,4,2/82,3/86,2,Australia,Wellington,10 Feb 1998,1291,SP Fleming,False,ODI
+1466,CL Cairns,5,2,4/169,5/171,1,Sri Lanka,Colombo (RPS),21 Jun 1998,1339,SP Fleming,False,ODI
+1467,MJ Horne,2,72,1/7,2/79,2,India,Wellington,26 Dec 1998,1435,SP Fleming,False,Test
+1468,RG Twose,4,24,3/44,4/68,1,South Africa,Napier,26 Mar 1999,1421,SP Fleming,False,ODI
+1469,CL Cairns,3,29,2/10,3/39,1,South Africa,Singapore,25 Aug 2000,1625,SP Fleming,False,ODI
+1470,RG Twose,3,12,2/57,3/69,1,Zimbabwe,Nairobi (Gym),9 Oct 2000,1635,SP Fleming,False,ODI
+1471,RG Twose,3,110,2/113,3/223,1,South Africa,Kimberley,28 Oct 2000,1651,SP Fleming,False,ODI
+1472,MH Richardson,3,45,2/22,3/67,1,Zimbabwe,Wellington,26 Dec 2000,1524,SP Fleming,False,Test
+1473,NJ Astle,3,59,2/44,3/103,3,Zimbabwe,Wellington,26 Dec 2000,1524,SP Fleming,False,Test
+1474,MS Sinclair,3,85,2/163,3/248,1,Pakistan,Christchurch,15 Mar 2001,1536,SP Fleming,False,Test
+1475,CL Cairns,5,23,4/190,5/213,4,Australia,Brisbane,8 Nov 2001,1565,SP Fleming,False,Test
+1476,CL Cairns,4,70,3/73,4/143,1,Australia,Melbourne,29 Jan 2002,1799,SP Fleming,False,ODI
+1477,CD McMillan,1,19,-,1/19,2,Canada,Benoni,3 Mar 2003,1977,SP Fleming,False,ODI
+1478,MHW Papps,1,44,-,1/44,1,South Africa,Auckland,13 Feb 2004,2099,SP Fleming,False,ODI
+1479,MHW Papps,1,58,-,1/58,2,South Africa,Napier,2 Mar 2004,2109,SP Fleming,False,ODI
+1480,L Vincent,2,29,1/54,2/83,1,India,Harare,2 Sep 2005,2278,SP Fleming,False,ODI
+1481,SB Styris,4,59,3/49,4/108,1,South Africa,Port Elizabeth,30 Oct 2005,2289,SP Fleming,False,ODI
+1482,LRPL Taylor,2,105,1/0,2/105,1,Kenya,Gros Islet,20 Mar 2007,2544,SP Fleming,False,ODI
+1483,SB Styris,3,41,2/36,3/77,2,West Indies,North Sound,29 Mar 2007,2557,SP Fleming,False,ODI
+1484,DC Boon,1,27,-,1/27,2,New Zealand,Christchurch,22 Mar 1986,371,GR Marsh,False,ODI
+1485,DC Boon,1,25,-,1/25,1,New Zealand,Auckland,29 Mar 1986,373,GR Marsh,False,ODI
+1486,DC Boon,1,212,-,1/212,1,India,Jaipur,7 Sep 1986,390,GR Marsh,False,ODI
+1487,DM Jones,2,23,1/55,2/78,1,India,Hyderabad (Deccan),24 Sep 1986,392,GR Marsh,False,ODI
+1488,AR Border,3,69,2/17,3/86,2,India,Ahmedabad,5 Oct 1986,394,GR Marsh,False,ODI
+1489,DC Boon,1,68,-,1/68,2,India,Rajkot,7 Oct 1986,395,GR Marsh,False,ODI
+1490,SR Waugh,4,40,3/113,4/153,3,England,Melbourne,26 Dec 1986,1062,GR Marsh,False,Test
+1491,DM Jones,2,23,1/26,2/49,1,Pakistan,Perth,2 Jan 1987,410,GR Marsh,False,ODI
+1492,DC Boon,1,90,-,1/90,1,Zimbabwe,Cuttack,30 Oct 1987,471,GR Marsh,False,ODI
+1493,DC Boon,1,73,-,1/73,1,Pakistan,Lahore,4 Nov 1987,475,GR Marsh,False,ODI
+1494,DC Boon,1,115,-,1/115,1,Sri Lanka,Adelaide,10 Jan 1988,491,GR Marsh,False,ODI
+1495,SR Waugh,4,15,3/169,4/184,1,England,Melbourne,4 Feb 1988,503,GR Marsh,False,ODI
+1496,DM Jones,2,80,1/26,2/106,1,West Indies,Melbourne,5 Jan 1989,546,GR Marsh,False,ODI
+1497,DM Jones,2,37,1/57,2/94,2,West Indies,Sydney,16 Jan 1989,552,GR Marsh,False,ODI
+1498,DM Jones,2,30,1/40,2/70,1,West Indies,Sydney,18 Jan 1989,553,GR Marsh,False,ODI
+1499,DM Jones,2,65,1/40,2/105,1,Sri Lanka,Margao,25 Oct 1989,585,GR Marsh,False,ODI
+1500,DM Jones,2,14,1/59,2/73,1,West Indies,Kingston,26 Feb 1991,671,GR Marsh,False,ODI
+1501,M Kaif,6,0,5/180,6/180,1,Bangladesh,Chattogram,23 Dec 2004,2199,MS Dhoni,False,ODI
+1502,Yuvraj Singh,7,49,6/110,7/159,1,South Africa,Hyderabad (Deccan),16 Nov 2005,2297,MS Dhoni,False,ODI
+1503,A Kumble,7,26,6/186,7/212,2,England,Mumbai,18 Mar 2006,1791,MS Dhoni,False,Test
+1504,M Kaif,4,36,3/174,4/210,1,West Indies,Basseterre,23 May 2006,2380,MS Dhoni,False,ODI
+1505,AB Agarkar,8,10,7/213,8/223,1,West Indies,Ahmedabad,26 Oct 2006,2437,MS Dhoni,False,ODI
+1506,Harbhajan Singh,7,3,6/276,7/279,1,Africa XI,Bengaluru,6 Jun 2007,2587,MS Dhoni,False,ODI
+1507,KD Karthik,5,12,4/116,5/128,2,New Zealand,Johannesburg,16 Sep 2007,32,MS Dhoni,False,T20I
+1508,RG Sharma,5,85,4/61,5/146,1,South Africa,Durban,20 Sep 2007,43,MS Dhoni,False,T20I
+1509,RG Sharma,5,29,4/155,5/184,1,Australia,Durban,22 Sep 2007,45,MS Dhoni,False,T20I
+1510,RG Sharma,4,68,3/113,4/181,1,Sri Lanka,Canberra,12 Feb 2008,2676,MS Dhoni,False,ODI
+1511,RV Uthappa,6,19,5/115,6/134,2,Australia,Adelaide,17 Feb 2008,2680,MS Dhoni,False,ODI
+1512,Yuvraj Singh,4,11,3/56,4/67,2,South Africa,Nottingham,16 Jun 2009,113,MS Dhoni,False,T20I
+1513,YK Pathan,6,45,5/253,6/298,1,West Indies,Kingston,26 Jun 2009,2852,MS Dhoni,False,ODI
+1514,Harbhajan Singh,7,25,6/114,7/139,2,West Indies,Bridgetown,9 May 2010,169,MS Dhoni,False,T20I
+1515,RG Sharma,5,79,4/110,5/189,1,Sri Lanka,Dambulla,22 Jun 2010,2999,MS Dhoni,False,ODI
+1516,Yuvraj Singh,5,3,4/50,5/53,2,New Zealand,Dambulla,10 Aug 2010,3030,MS Dhoni,False,ODI
+1517,VVS Laxman,7,3,6/119,7/122,4,Australia,Mohali,1 Oct 2010,1972,MS Dhoni,False,Test
+1518,V Kohli,5,52,4/43,5/95,2,South Africa,Durban,12 Jan 2011,3079,MS Dhoni,False,ODI
+1519,R Ashwin,9,29,8/91,9/120,1,England,Kolkata,29 Oct 2011,214,MS Dhoni,False,T20I
+1520,R Ashwin,7,7,6/288,7/295,2,England,Nagpur,13 Dec 2012,2066,MS Dhoni,False,Test
+1521,RA Jadeja,6,9,5/374,6/383,1,Australia,Bengaluru,2 Nov 2013,3428,MS Dhoni,False,ODI
+1522,STR Binny,7,1,6/344,7/345,1,England,Nottingham,9 Jul 2014,2128,MS Dhoni,False,Test
+1523,V Kohli,4,10,3/280,4/290,1,West Indies,Dharamsala,17 Oct 2014,3535,MS Dhoni,False,ODI
+1524,R Ashwin,7,23,6/208,7/231,2,Australia,Sydney,26 Mar 2015,3645,MS Dhoni,False,ODI
+1525,V Kohli,4,60,3/102,4/162,2,New Zealand,Dharamsala,16 Oct 2016,3796,MS Dhoni,False,ODI
+1526,B Kumar,8,8,7/208,8/216,2,New Zealand,Manchester,9 Jul 2019,4190,MS Dhoni,False,ODI
+1527,IK Pathan,5,14,4/255,5/269,1,Pakistan,Abu Dhabi,19 Apr 2006,2364,SK Raina,False,ODI
+1528,MS Dhoni,3,99,2/135,3/234,2,Sri Lanka,Karachi,3 Jul 2008,2732,SK Raina,False,ODI
+1529,MS Dhoni,5,54,4/91,5/145,1,Sri Lanka,Colombo (RPS),24 Aug 2008,2750,SK Raina,False,ODI
+1530,Yuvraj Singh,3,11,2/126,3/137,2,Sri Lanka,Dambulla,28 Jan 2009,2806,SK Raina,False,ODI
+1531,Yuvraj Singh,4,12,3/188,4/200,2,Sri Lanka,Mohali,12 Dec 2009,127,SK Raina,False,T20I
+1532,RG Sharma,4,6,3/86,4/92,1,Zimbabwe,Harare,3 Jun 2010,2986,SK Raina,False,ODI
+1533,Harbhajan Singh,7,43,6/219,7/262,2,Pakistan,Dambulla,19 Jun 2010,2996,SK Raina,False,ODI
+1534,MS Dhoni,5,39,4/123,5/162,1,England,Kolkata,25 Oct 2011,3210,SK Raina,False,ODI
+1535,V Sehwag,2,140,1/176,2/316,1,West Indies,Indore,8 Dec 2011,3223,SK Raina,False,ODI
+1536,MS Dhoni,6,40,5/112,6/152,1,South Africa,Colombo (RPS),2 Oct 2012,286,SK Raina,False,T20I
+1537,MS Dhoni,5,38,4/110,5/148,2,England,Pune,20 Dec 2012,292,SK Raina,False,T20I
+1538,RA Jadeja,6,24,5/118,6/142,2,Sri Lanka,Kingston,2 Jul 2013,3382,SK Raina,False,ODI
+1539,MS Dhoni,5,43,4/65,5/108,2,South Africa,Johannesburg,5 Dec 2013,3442,SK Raina,False,ODI
+1540,STR Binny,6,1,5/65,6/66,1,Bangladesh,Dhaka,17 Jun 2014,3498,SK Raina,False,ODI
+1541,Imran Khan,4,55,3/15,4/70,1,Sri Lanka,Sharjah,21 Dec 1990,656,Aamer Sohail,False,ODI
+1542,Ramiz Raja,1,8,-,1/8,2,West Indies,Karachi,20 Nov 1991,689,Aamer Sohail,False,ODI
+1543,Inzamam-ul-Haq,4,4,3/74,4/78,2,England,Lord's,20 May 1992,756,Aamer Sohail,False,ODI
+1544,Inzamam-ul-Haq,3,99,2/90,3/189,1,England,Manchester,24 Aug 1992,761,Aamer Sohail,False,ODI
+1545,Ramiz Raja,1,10,-,1/10,1,Australia,Adelaide,13 Dec 1992,777,Aamer Sohail,False,ODI
+1546,Inzamam-ul-Haq,1,47,-,1/47,3,Zimbabwe,Karachi,1 Dec 1993,1237,Aamer Sohail,False,Test
+1547,Inzamam-ul-Haq,2,53,1/1,2/54,1,Sri Lanka,Colombo (RPS),24 Aug 1994,918,Aamer Sohail,False,ODI
+1548,Saleem Malik,3,51,2/31,3/82,1,Sri Lanka,Colombo (SSC),11 Sep 1994,925,Aamer Sohail,False,ODI
+1549,Saeed Anwar,1,45,-,1/45,4,Australia,Karachi,28 Sep 1994,1268,Aamer Sohail,False,Test
+1550,Saeed Anwar,1,46,-,1/46,1,South Africa,Johannesburg,10 Dec 1994,959,Aamer Sohail,False,ODI
+1551,Ijaz Ahmed,4,4,3/101,4/105,2,South Africa,Cape Town,10 Jan 1995,970,Aamer Sohail,False,ODI
+1552,Ijaz Ahmed,3,84,2/88,3/172,2,India,Sharjah,15 Apr 1996,1098,Aamer Sohail,False,ODI
+1553,Imran Abbas,2,30,1/71,2/101,2,Sri Lanka,Karachi,13 Feb 2000,1559,Aamer Sohail,False,ODI
+1554,Javed Miandad,1,0,-,1/0,2,Australia,Melbourne,10 Jan 1989,549,Saeed Anwar,False,ODI
+1555,Shoaib Mohammad,2,12,1/45,2/57,1,India,Lahore,22 Dec 1989,595,Saeed Anwar,False,ODI
+1556,Aamer Malik,3,67,2/51,3/118,1,Sri Lanka,Perth,31 Dec 1989,598,Saeed Anwar,False,ODI
+1557,Aamer Sohail,1,4,-,1/4,1,India,Sharjah,23 Oct 1991,684,Saeed Anwar,False,ODI
+1558,Inzamam-ul-Haq,5,17,4/120,5/137,1,Australia,Adelaide,13 Dec 1992,777,Saeed Anwar,False,ODI
+1559,Saleem Malik,4,57,3/233,4/290,2,New Zealand,Wellington,17 Feb 1994,1249,Saeed Anwar,False,Test
+1560,Ijaz Ahmed,2,69,1/70,2/139,1,New Zealand,Lahore,6 Mar 1996,1076,Saeed Anwar,False,ODI
+1561,Saleem Elahi,1,1,-,1/1,2,South Africa,Nairobi (Gym),29 Sep 1996,1121,Saeed Anwar,False,ODI
+1562,Inzamam-ul-Haq,3,41,2/19,3/60,1,New Zealand,Gujranwala,4 Dec 1996,1146,Saeed Anwar,False,ODI
+1563,Ijaz Ahmed,2,48,1/177,2/225,1,New Zealand,Sialkot,6 Dec 1996,1148,Saeed Anwar,False,ODI
+1564,Ijaz Ahmed,2,33,1/77,2/110,1,Zimbabwe,Rawalpindi,24 Nov 1998,1377,Saeed Anwar,False,ODI
+1565,Wajahatullah Wasti,3,66,2/161,3/227,3,Sri Lanka,Lahore,4 Mar 1999,1447,Saeed Anwar,False,Test
+1566,Ijaz Ahmed,3,85,2/50,3/135,1,Bangladesh,Dhaka,16 Mar 1999,1410,Saeed Anwar,False,ODI
+1567,Shahid Afridi,1,11,-,1/11,1,India,Sharjah,8 Apr 1999,1430,Saeed Anwar,False,ODI
+1568,Inzamam-ul-Haq,3,19,2/7,3/26,2,Bangladesh,Northampton,31 May 1999,1471,Saeed Anwar,False,ODI
+1569,Abdul Razzaq,2,28,1/34,2/62,2,Australia,Sydney,19 Jan 2000,1542,Saeed Anwar,False,ODI
+1570,Ijaz Ahmed,4,39,3/35,4/74,2,South Africa,Singapore,27 Aug 2000,1626,Saeed Anwar,False,ODI
+1571,Mohammad Yousuf,4,20,3/132,4/152,1,New Zealand,Wellington,22 Feb 2001,1691,Saeed Anwar,False,ODI
+1572,Imran Nazir,1,13,-,1/13,2,New Zealand,Sharjah,15 Apr 2001,1709,Saeed Anwar,False,ODI
+1573,Imran Nazir,1,0,-,1/0,2,Australia,Melbourne (Docklands),15 Jun 2002,1844,Saeed Anwar,False,ODI
+1574,RJ Shastri,2,30,1/25,2/55,1,Sri Lanka,Colombo (PSS),22 Sep 1985,334,M Azharuddin,False,ODI
+1575,SM Gavaskar,4,100,3/25,4/125,1,West Indies,Sharjah,22 Nov 1985,341,M Azharuddin,False,ODI
+1576,M Amarnath,3,17,2/137,3/154,2,New Zealand,Brisbane,11 Jan 1986,348,M Azharuddin,False,ODI
+1577,M Amarnath,4,17,3/98,4/115,1,New Zealand,Melbourne,23 Jan 1986,355,M Azharuddin,False,ODI
+1578,DB Vengsarkar,5,37,4/71,5/108,1,Australia,Melbourne,9 Feb 1986,363,M Azharuddin,False,ODI
+1579,RJ Shastri,5,32,4/78,5/110,4,England,Lord's,5 Jun 1986,1046,M Azharuddin,False,Test
+1580,R Lamba,2,84,1/59,2/143,1,Australia,Rajkot,7 Oct 1986,395,M Azharuddin,False,ODI
+1581,DB Vengsarkar,4,72,3/85,4/157,1,West Indies,Mumbai,11 Dec 1987,1085,M Azharuddin,False,Test
+1582,RJ Shastri,6,54,5/140,6/194,1,West Indies,Kolkata,2 Jan 1988,483,M Azharuddin,False,ODI
+1583,M Amarnath,5,45,4/167,5/212,1,New Zealand,Sharjah,27 Mar 1988,513,M Azharuddin,False,ODI
+1584,M Amarnath,4,12,3/70,4/82,1,New Zealand,Sharjah,1 Apr 1988,517,M Azharuddin,False,ODI
+1585,NS Sidhu,2,66,1/47,2/113,1,West Indies,Port of Spain,11 Mar 1989,560,M Azharuddin,False,ODI
+1586,DB Vengsarkar,3,51,2/11,3/62,1,West Indies,St John's,18 Mar 1989,562,M Azharuddin,False,ODI
+1587,RJ Shastri,5,6,4/91,5/97,1,West Indies,Sharjah,13 Oct 1989,569,M Azharuddin,False,ODI
+1588,SV Manjrekar,3,128,2/39,3/167,1,Pakistan,Sialkot,9 Dec 1989,1132,M Azharuddin,False,Test
+1589,SR Tendulkar,5,29,4/93,5/122,1,New Zealand,Wellington,6 Mar 1990,616,M Azharuddin,False,ODI
+1590,SV Manjrekar,5,66,4/128,5/194,2,Australia,Brisbane,1 Mar 1992,725,M Azharuddin,False,ODI
+1591,PK Amre,5,87,4/38,5/125,2,South Africa,Durban,13 Nov 1992,1200,M Azharuddin,False,Test
+1592,WV Raman,2,32,1/8,2/40,1,South Africa,Port Elizabeth,9 Dec 1992,772,M Azharuddin,False,ODI
+1593,PK Amre,4,37,3/43,4/80,2,South Africa,East London,19 Dec 1992,784,M Azharuddin,False,ODI
+1594,VG Kambli,4,107,3/263,4/370,1,Zimbabwe,Delhi,13 Mar 1993,1218,M Azharuddin,False,Test
+1595,N Kapil Dev,6,4,5/188,6/192,1,South Africa,Mohali,22 Nov 1993,855,M Azharuddin,False,ODI
+1596,NS Sidhu,3,30,2/181,3/211,1,Sri Lanka,Rajkot,15 Feb 1994,879,M Azharuddin,False,ODI
+1597,VG Kambli,4,42,3/76,4/118,2,South Africa,Hamilton,18 Feb 1995,977,M Azharuddin,False,ODI
+1598,SV Manjrekar,4,7,3/65,4/72,2,New Zealand,Amritsar,18 Nov 1995,1016,M Azharuddin,False,ODI
+1599,NS Sidhu,2,25,1/33,2/58,1,Sri Lanka,Singapore,3 Apr 1996,1089,M Azharuddin,False,ODI
+1600,SV Manjrekar,5,74,4/130,5/204,2,South Africa,Sharjah,19 Apr 1996,1101,M Azharuddin,False,ODI
+1601,VVS Laxman,5,30,4/129,5/159,1,South Africa,Ahmedabad,20 Nov 1996,1338,M Azharuddin,False,Test
+1602,SR Tendulkar,6,222,5/58,6/280,2,South Africa,Cape Town,2 Jan 1997,1349,M Azharuddin,False,Test
+1603,NR Mongia,6,15,5/162,6/177,1,South Africa,Durban,12 Feb 1997,1176,M Azharuddin,False,ODI
+1604,NR Mongia,6,6,5/221,6/227,2,Sri Lanka,Colombo (SSC),24 Aug 1997,1226,M Azharuddin,False,ODI
+1605,SC Ganguly,3,104,2/102,3/206,1,Pakistan,Toronto,21 Sep 1997,1232,M Azharuddin,False,ODI
+1606,A Jadeja,4,6,3/179,4/185,2,Pakistan,Karachi,30 Sep 1997,1234,M Azharuddin,False,ODI
+1607,R Dravid,4,9,3/127,4/136,2,West Indies,Sharjah,16 Dec 1997,1264,M Azharuddin,False,ODI
+1608,SC Ganguly,2,72,1/76,2/148,1,New Zealand,Sharjah,17 Apr 1998,1319,M Azharuddin,False,ODI
+1609,SR Tendulkar,2,22,1/60,2/82,1,New Zealand,Sharjah,20 Apr 1998,1323,M Azharuddin,False,ODI
+1610,NS Sidhu,1,54,0/37,1/91,2,Pakistan,Toronto,12 Sep 1998,1349,M Azharuddin,False,ODI
+1611,SR Tendulkar,2,70,1/10,2/80,1,South Africa,Sharjah,27 Mar 2000,1581,M Azharuddin,False,ODI
+1612,SR Tendulkar,4,16,3/123,4/139,2,Sri Lanka,Dhaka,1 Jun 2000,1598,M Azharuddin,False,ODI
+1613,CK Kapugedera,2,30,1/4,2/34,1,Pakistan,Abu Dhabi,18 May 2007,2584,WU Tharanga,False,ODI
+1614,ML Udawatte,1,0,-,1/0,2,Zimbabwe,Harare,20 Nov 2008,2779,WU Tharanga,False,ODI
+1615,TM Dilshan,1,8,-,1/8,1,India,Bulawayo,30 May 2010,2983,WU Tharanga,False,ODI
+1616,TM Dilshan,1,86,-,1/86,2,Zimbabwe,Bulawayo,1 Jun 2010,2985,WU Tharanga,False,ODI
+1617,TM Dilshan,1,160,-,1/160,2,Zimbabwe,Harare,9 Jun 2010,2990,WU Tharanga,False,ODI
+1618,KC Sangakkara,2,9,1/10,2/19,2,Australia,Melbourne,3 Nov 2010,3065,WU Tharanga,False,ODI
+1619,TM Dilshan,1,63,-,1/63,1,Canada,Hambantota,20 Feb 2011,3102,WU Tharanga,False,ODI
+1620,TM Dilshan,1,13,-,1/13,1,New Zealand,Mumbai,18 Mar 2011,3137,WU Tharanga,False,ODI
+1621,BKG Mendis,2,111,1/18,2/129,1,Bangladesh,Dambulla,28 Mar 2017,3856,WU Tharanga,False,ODI
+1622,LD Chandimal,3,9,2/107,3/116,2,Zimbabwe,Colombo (RPS),14 Jul 2017,2263,WU Tharanga,False,Test
+1623,AD Mathews,4,57,3/68,4/125,2,India,Galle,26 Jul 2017,2265,WU Tharanga,False,Test
+1624,MDKJ Perera,3,9,2/22,3/31,1,Bangladesh,Colombo (RPS),16 Mar 2018,661,WU Tharanga,False,T20I
+1625,MDKJ Perera,3,11,2/11,3/22,1,South Africa,Dambulla,29 Jul 2018,4025,WU Tharanga,False,ODI
+1626,A Ranatunga,6,16,5/142,6/158,1,India,Colombo (RPS),12 Aug 1993,834,RS Kaluwitharana,False,ODI
+1627,A Ranatunga,5,21,4/185,5/206,1,Pakistan,Gujranwala,29 Sep 1995,1003,RS Kaluwitharana,False,ODI
+1628,HP Tillakaratne,6,24,5/232,6/256,1,Pakistan,Faisalabad,1 Oct 1995,1004,RS Kaluwitharana,False,ODI
+1629,HP Tillakaratne,6,6,5/222,6/228,1,West Indies,Sharjah,11 Oct 1995,1006,RS Kaluwitharana,False,ODI
+1630,AP Gurusinha,5,15,4/74,5/89,2,West Indies,Hobart,3 Jan 1996,1029,RS Kaluwitharana,False,ODI
+1631,HP Tillakaratne,6,1,5/33,6/34,1,West Indies,Brisbane,5 Jan 1996,1030,RS Kaluwitharana,False,ODI
+1632,PA de Silva,3,88,2/39,3/127,2,Australia,Melbourne,9 Jan 1996,1032,RS Kaluwitharana,False,ODI
+1633,MS Atapattu,2,20,1/9,2/29,1,Pakistan,Sharjah,12 Nov 1996,1143,RS Kaluwitharana,False,ODI
+1634,PA de Silva,5,5,4/369,5/374,3,India,Colombo (SSC),9 Aug 1997,1376,RS Kaluwitharana,False,Test
+1635,PA de Silva,6,0,5/42,6/42,3,South Africa,Centurion,27 Mar 1998,1414,RS Kaluwitharana,False,Test
+1636,ST Jayasuriya,1,107,-,1/107,1,Pakistan,Kimberley,7 Apr 1998,1309,RS Kaluwitharana,False,ODI
+1637,DPMD Jayawardene,6,9,5/262,6/271,2,New Zealand,Galle,3 Jun 1998,1416,RS Kaluwitharana,False,Test
+1638,A Ranatunga,4,127,3/5,4/132,2,New Zealand,Dhaka,26 Oct 1998,1359,RS Kaluwitharana,False,ODI
+1639,ST Jayasuriya,2,1,1/10,2/11,1,Zimbabwe,Sharjah,7 Nov 1998,1367,RS Kaluwitharana,False,ODI
+1640,PA de Silva,6,0,5/47,6/47,2,India,Sharjah,9 Nov 1998,1370,RS Kaluwitharana,False,ODI
+1641,ST Jayasuriya,1,3,-,1/3,2,England,Adelaide,23 Jan 1999,1391,RS Kaluwitharana,False,ODI
+1642,LPC Silva,6,27,5/87,6/114,2,Australia,Colombo (RPS),26 Aug 1999,1488,RS Kaluwitharana,False,ODI
+1643,TM Dilshan,5,40,4/283,5/323,2,Zimbabwe,Harare,26 Nov 1999,1473,RS Kaluwitharana,False,Test
+1644,MS Atapattu,2,47,1/96,2/143,1,Zimbabwe,Bulawayo,11 Dec 1999,1527,RS Kaluwitharana,False,ODI
+1645,TM Dilshan,5,54,4/100,5/154,2,Pakistan,Karachi,12 Mar 2000,1489,RS Kaluwitharana,False,Test
+1646,MS Atapattu,5,8,4/97,5/105,1,Pakistan,Dhaka,5 Jun 2000,1601,RS Kaluwitharana,False,ODI
+1647,ST Jayasuriya,1,6,-,1/6,2,Pakistan,Dhaka,7 Jun 2000,1602,RS Kaluwitharana,False,ODI
+1648,ST Jayasuriya,1,110,-,1/110,1,Zimbabwe,Sharjah,25 Oct 2000,1646,RS Kaluwitharana,False,ODI
+1649,ST Jayasuriya,1,8,-,1/8,1,Pakistan,Sharjah,20 Apr 2001,1711,RS Kaluwitharana,False,ODI
+1650,HDPK Dharmasena,6,17,5/170,6/187,1,New Zealand,Colombo (RPS),18 Jul 2001,1735,RS Kaluwitharana,False,ODI
+1651,DA Gunawardene,2,57,1/32,2/89,1,New Zealand,Colombo (SSC),31 Jul 2001,1741,RS Kaluwitharana,False,ODI
+1652,ST Jayasuriya,1,6,-,1/6,2,India,Colombo (SSC),1 Aug 2001,1742,RS Kaluwitharana,False,ODI
+1653,TM Dilshan,5,6,4/106,5/112,1,West Indies,Bridgetown,7 Jun 2003,2022,RS Kaluwitharana,False,ODI
+1654,MS Atapattu,2,7,1/71,2/78,2,West Indies,Bridgetown,8 Jun 2003,2023,RS Kaluwitharana,False,ODI
+1655,MS Atapattu,2,1,1/12,2/13,2,Australia,Dambulla,20 Feb 2004,2102,RS Kaluwitharana,False,ODI
+1656,TM Dilshan,5,4,4/216,5/220,1,Australia,Dambulla,22 Feb 2004,2103,RS Kaluwitharana,False,ODI
+1657,DJ Hussey,3,29,2/20,3/49,1,India,Melbourne,3 Feb 2012,218,AJ Finch,False,T20I
+1658,PJ Hughes,1,74,-,1/74,1,India,Jaipur,16 Oct 2013,3420,AJ Finch,False,ODI
+1659,GJ Bailey,4,146,3/70,4/216,1,England,Melbourne,14 Feb 2015,3600,AJ Finch,False,ODI
+1660,MS Wade,5,3,4/121,5/124,2,India,Melbourne,29 Jan 2016,486,AJ Finch,False,T20I
+1661,DA Warner,1,61,-,1/61,2,India,The Oval,9 Jun 2019,4155,AJ Finch,False,ODI
+1662,SPD Smith,2,28,1/18,2/46,1,India,Bengaluru,19 Jan 2020,4233,AJ Finch,False,ODI
+1663,MEK Hussey,4,18,3/35,4/53,2,South Africa,Perth,30 Jan 2009,2808,DA Warner,False,ODI
+1664,MJ Clarke,2,5,1/2,2/7,1,England,Bridgetown,16 May 2010,177,DA Warner,False,T20I
+1665,SR Watson,1,1,-,1/1,2,South Africa,Cape Town,13 Oct 2011,210,DA Warner,False,T20I
+1666,MJ Clarke,2,39,1/14,2/53,1,India,Adelaide,12 Feb 2012,3237,DA Warner,False,ODI
+1667,DJ Hussey,4,9,3/89,4/98,2,West Indies,Bridgetown,30 Mar 2012,243,DA Warner,False,T20I
+1668,PJ Hughes,2,79,1/18,2/97,1,Sri Lanka,Hobart,14 Dec 2012,2067,DA Warner,False,Test
+1669,SPD Smith,3,79,2/78,3/157,2,South Africa,Cape Town,9 Mar 2016,526,DA Warner,False,T20I
+1670,A Zampa,9,27,8/261,9/288,2,South Africa,Cape Town,12 Oct 2016,3795,DA Warner,False,ODI
+1671,SE Marsh,1,52,-,1/52,4,South Africa,Perth,3 Nov 2016,2230,DA Warner,False,Test
+1672,MT Renshaw,1,64,-,1/64,4,South Africa,Adelaide,24 Nov 2016,2236,DA Warner,False,Test
+1673,MA Starc,8,2,7/262,8/264,1,New Zealand,Melbourne,9 Dec 2016,3813,DA Warner,False,ODI
+1674,WK McCallan,8,73,7/164,8/237,1,Scotland,Ayr,5 Aug 2006,2396,EJG Morgan,False,ODI
+1675,WTS Porterfield,2,5,1/6,2/11,2,England,Providence,30 Mar 2007,2558,EJG Morgan,False,ODI
+1676,WTS Porterfield,2,9,1/92,2/101,1,Bangladesh,Bridgetown,15 Apr 2007,2572,EJG Morgan,False,ODI
+1677,MJ Prior,6,26,5/72,6/98,3,Pakistan,Nottingham,29 Jul 2010,1967,EJG Morgan,False,Test
+1678,KP Pietersen,3,25,2/37,3/62,1,Pakistan,Abu Dhabi,27 Feb 2012,229,EJG Morgan,False,T20I
+1679,JC Buttler,6,62,5/210,6/272,1,New Zealand,Nottingham,5 Jun 2013,3362,EJG Morgan,False,ODI
+1680,JE Root,4,13,3/42,4/55,1,Australia,Melbourne,31 Jan 2014,355,EJG Morgan,False,T20I
+1681,BA Stokes,5,0,4/157,5/157,1,South Africa,Johannesburg,21 Feb 2016,506,EJG Morgan,False,T20I
+1682,JC Buttler,4,74,3/88,4/162,1,Sri Lanka,Delhi,26 Mar 2016,551,EJG Morgan,False,T20I
+1683,LE Plunkett,8,50,7/304,8/354,2,India,Cuttack,19 Jan 2017,3821,EJG Morgan,False,ODI
+1684,MM Ali,6,53,5/239,6/292,1,West Indies,North Sound,3 Mar 2017,3845,EJG Morgan,False,ODI
+1685,BA Stokes,4,159,3/35,4/194,2,Australia,Birmingham,10 Jun 2017,3885,EJG Morgan,False,ODI
+1686,JJ Roy,3,15,2/45,3/60,1,Sri Lanka,Colombo (RPS),27 Oct 2018,703,EJG Morgan,False,T20I
+1687,IR Bell,6,4,5/386,6/390,3,New Zealand,Dunedin,6 Mar 2013,2077,JE Root,False,Test
+1688,IR Bell,3,80,2/69,3/149,1,New Zealand,Nottingham,5 Jun 2013,3362,JE Root,False,ODI
+1689,KP Pietersen,3,0,2/86,3/86,3,Australia,Melbourne,26 Dec 2013,2110,JE Root,False,Test
+1690,JC Buttler,5,8,4/55,5/63,1,Australia,Melbourne,31 Jan 2014,355,JE Root,False,T20I
+1691,BA Stokes,5,82,4/187,5/269,1,South Africa,Centurion,9 Feb 2016,3736,JE Root,False,ODI
+1692,BA Stokes,4,0,3/42,4/42,1,Afghanistan,Delhi,23 Mar 2016,546,JE Root,False,T20I
+1693,EJG Morgan,3,42,2/116,3/158,2,Pakistan,Southampton,24 Aug 2016,3770,JE Root,False,ODI
+1694,EJG Morgan,3,10,2/70,3/80,1,South Africa,Southampton,27 May 2017,3873,JE Root,False,ODI
+1695,AD Hales,3,55,2/165,3/220,2,Scotland,Edinburgh,10 Jun 2018,4008,JE Root,False,ODI
+1696,JM Bairstow,5,11,4/204,5/215,1,Australia,Birmingham,27 Jun 2018,679,JE Root,False,T20I
+1697,JM Bairstow,4,104,3/112,4/216,1,India,Birmingham,1 Aug 2018,2314,JE Root,False,Test
+1698,BA Stokes,5,30,4/92,5/122,3,India,Southampton,30 Aug 2018,2317,JE Root,False,Test
+1699,SW Billings,5,82,4/32,5/114,1,West Indies,Basseterre,8 Mar 2019,751,JE Root,False,T20I
+1700,EJG Morgan,3,30,2/53,3/83,1,South Africa,Cape Town,4 Feb 2020,4234,JE Root,False,ODI
+1701,V Dahiya,6,32,5/230,6/262,1,Australia,Margao,6 Apr 2001,1701,Yuvraj Singh,False,ODI
+1702,Z Khan,8,10,7/90,8/100,1,New Zealand,Christchurch,1 Jan 2003,1928,Yuvraj Singh,False,ODI
+1703,M Kaif,4,22,3/175,4/197,1,South Africa,Dhaka,13 Apr 2003,2002,Yuvraj Singh,False,ODI
+1704,M Kaif,5,9,4/80,5/89,1,England,Nottingham,1 Sep 2004,2164,Yuvraj Singh,False,ODI
+1705,MS Dhoni,4,20,3/64,4/84,2,Pakistan,Delhi,17 Apr 2005,2240,Yuvraj Singh,False,ODI
+1706,Harbhajan Singh,9,29,8/198,9/227,1,South Africa,Hyderabad (Deccan),16 Nov 2005,2297,Yuvraj Singh,False,ODI
+1707,R Dravid,5,14,4/98,5/112,2,Sri Lanka,Port of Spain,23 Mar 2007,2550,Yuvraj Singh,False,ODI
+1708,Z Khan,8,1,7/213,8/214,2,England,Birmingham,27 Aug 2007,2616,Yuvraj Singh,False,ODI
+1709,G Gambhir,5,153,4/80,5/233,3,England,Mohali,19 Dec 2008,1901,Yuvraj Singh,False,Test
+1710,MS Dhoni,3,10,2/121,3/131,1,New Zealand,Napier,3 Mar 2009,2821,Yuvraj Singh,False,ODI
+1711,MS Dhoni,4,19,3/94,4/113,2,Australia,Mohali,2 Nov 2009,2919,Yuvraj Singh,False,ODI
+1712,YK Pathan,4,1,3/109,4/110,1,South Africa,Durban,9 Jan 2011,196,Yuvraj Singh,False,T20I
+1713,Mohammad Rafique,8,3,7/256,8/259,1,Zimbabwe,Harare,4 Feb 2007,2505,Mushfiqur Rahim,False,ODI
+1714,Mohammad Ashraful,6,19,5/160,6/179,1,South Africa,Providence,7 Apr 2007,2564,Mushfiqur Rahim,False,ODI
+1715,Mahmudullah,8,2,7/66,8/68,2,Sri Lanka,Johannesburg,18 Sep 2007,38,Mushfiqur Rahim,False,T20I
+1716,Mahmudullah,6,19,5/73,6/92,1,Pakistan,Karachi,4 Jul 2008,2733,Mushfiqur Rahim,False,ODI
+1717,Naeem Islam,6,24,5/70,6/94,2,South Africa,Johannesburg,5 Nov 2008,77,Mushfiqur Rahim,False,T20I
+1718,Mehrab Hossain jnr,6,0,5/81,6/81,3,South Africa,Bloemfontein,19 Nov 2008,1893,Mushfiqur Rahim,False,Test
+1719,Enamul Haque jnr,10,2,9/156,10/158,4,Sri Lanka,Chattogram,3 Jan 2009,1905,Mushfiqur Rahim,False,Test
+1720,Mashrafe Mortaza,8,23,7/149,8/172,1,West Indies,Kingstown,9 Jul 2009,1923,Mushfiqur Rahim,False,Test
+1721,Mahmudullah,6,5,5/57,6/62,1,West Indies,Basseterre,2 Aug 2009,117,Mushfiqur Rahim,False,T20I
+1722,Tamim Iqbal,5,34,4/112,5/146,1,England,Dhaka,28 Feb 2010,2964,Mushfiqur Rahim,False,ODI
+1723,Junaid Siddique,3,4,2/199,3/203,2,Pakistan,Dambulla,21 Jun 2010,2998,Mushfiqur Rahim,False,ODI
+1724,Shakib Al Hasan,5,51,4/97,5/148,1,New Zealand,Dhaka,14 Oct 2010,3056,Mushfiqur Rahim,False,ODI
+1725,Nasir Hossain,6,16,5/23,6/39,2,Pakistan,Dhaka,29 Nov 2011,216,Mushfiqur Rahim,False,T20I
+1726,Mohammad Ashraful,3,23,2/32,3/55,1,Ireland,Belfast,20 Jul 2012,250,Mushfiqur Rahim,False,T20I
+1727,Nasir Hossain,4,7,3/119,4/126,2,Sri Lanka,Pallekele,28 Mar 2013,3352,Mushfiqur Rahim,False,ODI
+1728,Shakib Al Hasan,5,17,4/305,5/322,1,Zimbabwe,Khulna,3 Nov 2014,2143,Mushfiqur Rahim,False,Test
+1729,Shakib Al Hasan,4,54,3/98,4/152,2,India,Dhaka,21 Jun 2015,3660,Mushfiqur Rahim,False,ODI
+1730,Mashrafe Mortaza,7,0,6/243,7/243,1,Zimbabwe,Dhaka,7 Nov 2015,3703,Mushfiqur Rahim,False,ODI
+1731,Sabbir Rahman,3,24,2/2,3/26,1,Sri Lanka,Dhaka,28 Feb 2016,513,Mushfiqur Rahim,False,T20I
+1732,Sabbir Rahman,4,11,3/64,4/75,1,India,Dhaka,6 Mar 2016,521,Mushfiqur Rahim,False,T20I
+1733,Sabbir Rahman,6,43,5/143,6/186,3,Australia,Dhaka,27 Aug 2017,2272,Mushfiqur Rahim,False,Test
+1734,Imrul Kayes,5,6,4/81,5/87,1,Afghanistan,Abu Dhabi,23 Sep 2018,4045,Mushfiqur Rahim,False,ODI
+1735,Shakib Al Hasan,4,17,3/31,4/48,1,West Indies,Sylhet,17 Dec 2018,715,Mushfiqur Rahim,False,T20I
+1736,Shakib Al Hasan,3,50,2/60,3/110,1,New Zealand,The Oval,5 Jun 2019,4151,Mushfiqur Rahim,False,ODI
+1737,Mohammad Ashraful,4,39,3/58,4/97,2,Kenya,Nairobi (Gym),12 Aug 2006,2402,Shakib Al Hasan,False,ODI
+1738,Mehrab Hossain jnr,3,49,2/126,3/175,2,Zimbabwe,Bogra,3 Dec 2006,2457,Shakib Al Hasan,False,ODI
+1739,Habibul Bashar,5,26,4/114,5/140,2,Zimbabwe,Dhaka,9 Dec 2006,2462,Shakib Al Hasan,False,ODI
+1740,Tamim Iqbal,3,3,2/45,3/48,2,Ireland,Bridgetown,15 Apr 2007,2572,Shakib Al Hasan,False,ODI
+1741,Alok Kapali,5,19,4/58,5/77,1,South Africa,Cape Town,15 Sep 2007,31,Shakib Al Hasan,False,T20I
+1742,Naeem Islam,5,1,4/69,5/70,2,South Africa,Johannesburg,5 Nov 2008,77,Shakib Al Hasan,False,T20I
+1743,Mushfiqur Rahim,6,42,5/251,6/293,1,Zimbabwe,Bulawayo,11 Aug 2009,2871,Shakib Al Hasan,False,ODI
+1744,Imrul Kayes,3,8,2/148,3/156,1,India,Dhaka,7 Jan 2010,2939,Shakib Al Hasan,False,ODI
+1745,Mohammad Ashraful,5,9,4/77,5/86,2,England,Birmingham,12 Jul 2010,3026,Shakib Al Hasan,False,ODI
+1746,Mushfiqur Rahim,6,82,5/223,6/305,1,Pakistan,Dhaka,17 Dec 2011,2024,Shakib Al Hasan,False,Test
+1747,Mominul Haque,4,2,3/92,4/94,1,Zimbabwe,Bulawayo,3 May 2013,3353,Shakib Al Hasan,False,ODI
+1748,Mushfiqur Rahim,4,5,3/114,4/119,2,Sri Lanka,Dhaka,17 Feb 2014,3469,Shakib Al Hasan,False,ODI
+1749,Mahmudullah,4,22,3/92,4/114,2,Zimbabwe,Dhaka,25 Oct 2014,2141,Shakib Al Hasan,False,Test
+1750,Sabbir Rahman,4,23,3/50,4/73,2,India,Dhaka,24 Feb 2016,509,Shakib Al Hasan,False,T20I
+1751,Mosaddek Hossain,5,27,4/141,5/168,1,New Zealand,Nelson,31 Dec 2016,3816,Shakib Al Hasan,False,ODI
+1752,Tamim Iqbal,2,10,1/5,2/15,1,Sri Lanka,Dhaka,25 Jan 2018,3965,Shakib Al Hasan,False,ODI
+1753,Sabbir Rahman,6,29,5/104,6/133,1,India,Colombo (RPS),18 Mar 2018,662,Shakib Al Hasan,False,T20I
+1754,Mushfiqur Rahim,4,0,3/81,4/81,1,Afghanistan,Abu Dhabi,23 Sep 2018,4045,Shakib Al Hasan,False,ODI
+1755,SR Waugh,5,32,4/128,5/160,1,South Africa,Lahore,12 Oct 1994,928,MG Bevan,False,ODI
+1756,S Lee,6,1,5/179,6/180,2,West Indies,Brisbane,7 Jan 1996,1031,MG Bevan,False,ODI
+1757,S Lee,6,7,5/237,6/244,1,India,Mumbai,27 Feb 1996,1065,MG Bevan,False,ODI
+1758,RT Ponting,4,6,3/194,4/200,1,West Indies,Jaipur,4 Mar 1996,1072,MG Bevan,False,ODI
+1759,GS Blewett,4,2,3/48,4/50,1,South Africa,Durban,5 Apr 1997,1191,MG Bevan,False,ODI
+1760,GS Blewett,4,63,3/43,4/106,1,England,Leeds,22 May 1997,1210,MG Bevan,False,ODI
+1761,TM Moody,6,15,5/206,6/221,2,South Africa,Melbourne,23 Jan 1998,1283,MG Bevan,False,ODI
+1762,SR Waugh,5,74,4/191,5/265,1,New Zealand,Wellington,10 Feb 1998,1291,MG Bevan,False,ODI
+1763,GR Robertson,9,11,8/215,9/226,1,New Zealand,Napier,12 Feb 1998,1292,MG Bevan,False,ODI
+1764,SR Waugh,5,36,4/85,5/121,1,India,Sharjah,24 Apr 1998,1327,MG Bevan,False,ODI
+1765,S Lee,6,39,5/80,6/119,1,West Indies,Bridgetown,25 Apr 1999,1442,MG Bevan,False,ODI
+1766,SR Waugh,4,54,3/38,4/92,2,Pakistan,Melbourne,16 Jan 2000,1541,MG Bevan,False,ODI
+1767,DR Martyn,5,16,4/114,5/130,2,South Africa,Melbourne (Docklands),20 Aug 2000,1622,MG Bevan,False,ODI
+1768,SR Waugh,5,4,4/159,5/163,2,India,Nairobi (Gym),7 Oct 2000,1633,MG Bevan,False,ODI
+1769,RT Ponting,3,25,2/39,3/64,1,South Africa,Melbourne,13 Jan 2002,1784,MG Bevan,False,ODI
+1770,IJ Harvey,6,31,5/156,6/187,1,South Africa,Johannesburg,22 Mar 2002,1819,MG Bevan,False,ODI
+1771,AJ Bichel,8,38,7/214,8/252,1,Zimbabwe,Melbourne,29 Jan 2004,2091,MG Bevan,False,ODI
+1772,A Symonds,5,23,4/136,5/159,2,Sri Lanka,Colombo (RPS),25 Feb 2004,2105,MG Bevan,False,ODI
+1773,LRPL Taylor,2,4,1/21,2/25,1,Australia,Wellington,13 Mar 2010,2975,MJ Guptill,False,ODI
+1774,KS Williamson,2,17,1/2,2/19,1,India,Vadodara,4 Dec 2010,3074,MJ Guptill,False,ODI
+1775,LRPL Taylor,4,36,3/55,4/91,2,Pakistan,Auckland,26 Dec 2010,193,MJ Guptill,False,T20I
+1776,CFK van Wyk,6,8,5/162,6/170,1,West Indies,Kingston,2 Aug 2012,2052,MJ Guptill,False,Test
+1777,RJ Nicol,1,0,-,1/0,2,South Africa,Paarl,19 Jan 2013,3323,MJ Guptill,False,ODI
+1778,KS Williamson,1,18,-,1/18,2,Sri Lanka,Chattogram,31 Mar 2014,395,MJ Guptill,False,T20I
+1779,LRPL Taylor,3,32,2/111,3/143,2,Afghanistan,Napier,8 Mar 2015,3628,MJ Guptill,False,ODI
+1780,LRPL Taylor,3,47,2/81,3/128,2,South Africa,Auckland,24 Mar 2015,3644,MJ Guptill,False,ODI
+1781,GH Worker,2,34,1/68,2/102,1,South Africa,Durban,14 Aug 2015,451,MJ Guptill,False,T20I
+1782,KS Williamson,1,101,-,1/101,1,Sri Lanka,Mount Maunganui,7 Jan 2016,474,MJ Guptill,False,T20I
+1783,KS Williamson,1,9,-,1/9,2,Pakistan,Auckland,15 Jan 2016,478,MJ Guptill,False,T20I
+1784,HM Nicholls,3,100,2/81,3/181,1,Australia,Auckland,3 Feb 2016,3731,MJ Guptill,False,ODI
+1785,L Ronchi,4,8,3/140,4/148,2,India,Indore,8 Oct 2016,2223,MJ Guptill,False,Test
+1786,KS Williamson,2,69,1/15,2/84,1,Pakistan,Dunedin,13 Jan 2018,3949,MJ Guptill,False,ODI
+1787,LRPL Taylor,3,15,2/142,3/157,1,India,Auckland,8 Feb 2020,4239,MJ Guptill,False,ODI
+1788,IA Healy,6,7,5/172,6/179,1,Pakistan,Hobart,10 Dec 1992,773,DR Martyn,False,ODI
+1789,DC Boon,4,10,3/76,4/86,2,New Zealand,Sydney,11 Jan 1994,872,DR Martyn,False,ODI
+1790,MS Kasprowicz,9,5,8/259,9/264,1,India,Sharjah,19 Apr 1998,1322,DR Martyn,False,ODI
+1791,SK Warne,8,8,7/255,8/263,1,India,Sharjah,24 Apr 1998,1327,DR Martyn,False,ODI
+1792,DS Lehmann,4,66,3/128,4/194,1,West Indies,Port of Spain,17 Apr 1999,1438,DR Martyn,False,ODI
+1793,B Lee,9,55,8/185,9/240,1,South Africa,Durban,12 Apr 2000,1587,DR Martyn,False,ODI
+1794,A Symonds,6,74,5/193,6/267,1,West Indies,Melbourne,11 Jan 2001,1667,DR Martyn,False,ODI
+1795,IJ Harvey,7,20,6/179,7/199,1,West Indies,Sydney,7 Feb 2001,1685,DR Martyn,False,ODI
+1796,IJ Harvey,6,4,5/174,6/178,2,New Zealand,Sydney,17 Jan 2002,1786,DR Martyn,False,ODI
+1797,ML Hayden,3,73,2/39,3/112,2,South Africa,Potchefstroom,27 Mar 2002,1821,DR Martyn,False,ODI
+1798,MG Bevan,5,39,4/57,5/96,1,Sri Lanka,Colombo (RPS),27 Sep 2002,1887,DR Martyn,False,ODI
+1799,SR Waugh,4,7,3/268,4/275,1,India,Brisbane,4 Dec 2003,1671,DR Martyn,False,Test
+1800,A Symonds,4,3,3/133,4/136,2,Sri Lanka,Colombo (RPS),25 Feb 2004,2105,DR Martyn,False,ODI
+1801,ML Hayden,3,133,2/99,3/232,1,New Zealand,Christchurch,22 Feb 2005,2228,DR Martyn,False,ODI
+1802,JL Langer,3,30,2/88,3/118,2,England,Birmingham,4 Aug 2005,1758,DR Martyn,False,Test
+1803,MEK Hussey,6,81,5/263,6/344,1,South Africa,Sydney,5 Feb 2006,2323,DR Martyn,False,ODI
+1804,SM Katich,3,12,2/52,3/64,2,Sri Lanka,Adelaide,10 Feb 2006,2326,DR Martyn,False,ODI
+1805,A Symonds,4,10,3/87,4/97,1,India,Kuala Lumpur,22 Sep 2006,2421,DR Martyn,False,ODI
+1806,R Strydom,1,34,-,1/34,2,Bangladesh,Dhaka,22 Mar 2008,2695,WTS Porterfield,False,ODI
+1807,GC Wilson,1,1,-,1/1,2,New Zealand,Nottingham,11 Jun 2009,102,WTS Porterfield,False,T20I
+1808,AC Botha,3,69,2/32,3/101,1,Scotland,Aberdeen,22 Aug 2009,2876,WTS Porterfield,False,ODI
+1809,AC Botha,2,29,1/31,2/60,1,Scotland,Dubai (DSC),11 Feb 2010,140,WTS Porterfield,False,T20I
+1810,AR White,6,13,5/115,6/128,1,Zimbabwe,Harare,30 Sep 2010,3050,WTS Porterfield,False,ODI
+1811,NJ O'Brien,3,19,2/24,3/43,2,England,Dublin,25 Aug 2011,3185,WTS Porterfield,False,ODI
+1812,PR Stirling,1,7,-,1/7,2,Kenya,Mombasa,22 Feb 2012,224,WTS Porterfield,False,T20I
+1813,PR Stirling,1,31,-,1/31,2,Bangladesh,Belfast,20 Jul 2012,250,WTS Porterfield,False,T20I
+1814,PR Stirling,1,12,-,1/12,1,U.A.E.,Abu Dhabi,14 Feb 2016,498,WTS Porterfield,False,T20I
+1815,GH Dockrell,7,7,6/114,7/121,2,U.A.E.,Abu Dhabi,16 Feb 2016,500,WTS Porterfield,False,T20I
+1816,SP Terry,2,9,1/27,2/36,2,Afghanistan,Belfast,17 Jul 2016,3763,WTS Porterfield,False,ODI
+1817,KJ O'Brien,3,19,2/83,3/102,1,Afghanistan,Greater Noida,8 Mar 2017,599,WTS Porterfield,False,T20I
+1818,KJ O'Brien,5,29,4/114,5/143,1,West Indies,Kingston,15 Apr 2010,2978,PR Stirling,False,ODI
+1819,GC Wilson,1,82,-,1/82,1,Netherlands,Dublin,16 Aug 2010,3034,PR Stirling,False,ODI
+1820,WTS Porterfield,1,0,-,1/0,1,Kenya,Mombasa,24 Feb 2012,227,PR Stirling,False,T20I
+1821,EC Joyce,2,2,1/32,2/34,2,Bangladesh,Belfast,18 Jul 2012,249,PR Stirling,False,T20I
+1822,WTS Porterfield,1,6,-,1/6,1,England,Dublin (Malahide),8 May 2015,3650,PR Stirling,False,ODI
+1823,GC Wilson,6,32,5/54,6/86,2,Zimbabwe,Harare,16 Mar 2018,3999,PR Stirling,False,ODI
+1824,NJ O'Brien,3,44,2/77,3/121,1,Afghanistan,Harare,23 Mar 2018,4006,PR Stirling,False,ODI
+1825,MR Adair,5,52,4/68,5/120,1,U.A.E.,Abu Dhabi,19 Oct 2019,944,PR Stirling,False,T20I
+1826,CL Hooper,6,54,5/57,6/111,1,India,Mumbai,20 Oct 1994,933,S Chanderpaul,False,ODI
+1827,SL Campbell,3,6,2/50,3/56,1,Sri Lanka,Adelaide,15 Dec 1995,1021,S Chanderpaul,False,ODI
+1828,SL Campbell,2,40,1/6,2/46,2,Sri Lanka,Brisbane,5 Jan 1996,1030,S Chanderpaul,False,ODI
+1829,PA Wallace,1,8,-,1/8,2,Sri Lanka,Port of Spain,13 Apr 1996,1096,S Chanderpaul,False,ODI
+1830,BC Lara,3,85,2/80,3/165,2,Australia,Perth,12 Jan 1997,1162,S Chanderpaul,False,ODI
+1831,CL Hooper,3,63,2/101,3/164,1,England,Sharjah,19 Dec 1997,1266,S Chanderpaul,False,ODI
+1832,BC Lara,3,0,2/32,3/32,3,England,Georgetown,27 Feb 1998,1404,S Chanderpaul,False,Test
+1833,CL Hooper,4,53,3/39,4/92,1,South Africa,Johannesburg,22 Jan 1999,1390,S Chanderpaul,False,ODI
+1834,SL Campbell,3,13,2/45,3/58,2,Pakistan,Sharjah,14 Oct 1999,1513,S Chanderpaul,False,ODI
+1835,BC Lara,3,27,2/131,3/158,1,New Zealand,Auckland,2 Jan 2000,1532,S Chanderpaul,False,ODI
+1836,CL Hooper,4,86,3/104,4/190,1,South Africa,St John's,2 May 2001,1713,S Chanderpaul,False,ODI
+1837,BC Lara,5,43,4/73,5/116,1,South Africa,Bridgetown,9 May 2001,1716,S Chanderpaul,False,ODI
+1838,CL Hooper,5,15,4/140,5/155,1,India,Bridgetown,29 May 2002,1836,S Chanderpaul,False,ODI
+1839,CH Gayle,4,21,3/218,4/239,2,India,Vadodara,18 Nov 2002,1897,S Chanderpaul,False,ODI
+1840,BC Lara,4,15,3/95,4/110,2,Australia,Adelaide,26 Jan 2005,2212,S Chanderpaul,False,ODI
+1841,DJ Bravo,6,130,5/535,6/665,2,South Africa,St John's,29 Apr 2005,1750,S Chanderpaul,False,Test
+1842,BC Lara,3,4,2/44,3/48,1,South Africa,Port of Spain,15 May 2005,2245,S Chanderpaul,False,ODI
+1843,RS Morton,4,21,3/93,4/114,2,Pakistan,Gros Islet,21 May 2005,2247,S Chanderpaul,False,ODI
+1844,RS Morton,4,18,3/171,4/189,1,New Zealand,Napier,25 Mar 2006,1793,S Chanderpaul,False,Test
+1845,RS Morton,2,26,1/123,2/149,1,Zimbabwe,Harare,2 Dec 2007,2651,S Chanderpaul,False,ODI
+1846,N Deonarine,4,0,3/151,4/151,1,Zimbabwe,Kingstown,10 Mar 2010,2972,S Chanderpaul,False,ODI
+1847,ST Gabriel,10,2,9/213,10/215,3,South Africa,Cape Town,2 Jan 2015,2154,S Chanderpaul,False,Test
+1848,SL Campbell,2,44,1/4,2/48,1,Zimbabwe,Port of Spain,16 Mar 2000,1490,CH Gayle,False,Test
+1849,SC Joseph,6,1,5/122,6/123,2,Pakistan,Bridgetown,19 Apr 2000,1593,CH Gayle,False,ODI
+1850,SL Campbell,4,50,3/84,4/134,1,Pakistan,Port of Spain,22 Apr 2000,1594,CH Gayle,False,ODI
+1851,WW Hinds,2,68,1/33,2/101,1,Zimbabwe,Bristol,6 Jul 2000,1605,CH Gayle,False,ODI
+1852,D Ganga,1,0,-,1/0,1,Zimbabwe,Colombo (SSC),9 Dec 2001,1777,CH Gayle,False,ODI
+1853,RR Sarwan,3,28,2/75,3/103,1,Bangladesh,Chattogram,29 Nov 2002,1904,CH Gayle,False,ODI
+1854,BC Lara,2,137,1/30,2/167,1,Sri Lanka,Bridgetown,8 Jun 2003,2023,CH Gayle,False,ODI
+1855,RR Sarwan,3,0,2/29,3/29,1,England,Leeds,1 Jul 2004,2137,CH Gayle,False,ODI
+1856,DJ Bravo,2,174,1/35,2/209,1,England,Ahmedabad,28 Oct 2006,2439,CH Gayle,False,ODI
+1857,BC Lara,3,4,2/65,3/69,2,South Africa,St George's,10 Apr 2007,2567,CH Gayle,False,ODI
+1858,XM Marshall,1,86,-,1/86,1,Australia,St George's,29 Jun 2008,2724,CH Gayle,False,ODI
+1859,WW Hinds,6,1,5/164,6/165,1,India,Bridgetown,9 May 2010,169,CH Gayle,False,T20I
+1860,MN Samuels,3,0,2/7,3/7,2,Pakistan,Providence,14 Jul 2013,3389,CH Gayle,False,ODI
+1861,J Charles,1,0,-,1/0,1,India,Kochi,21 Nov 2013,3436,CH Gayle,False,ODI
+1862,MN Samuels,2,24,1/38,2/62,1,India,Dhaka,23 Mar 2014,382,CH Gayle,False,T20I
+1863,E Lewis,1,77,-,1/77,1,England,Chester-le-Street,16 Sep 2017,622,CH Gayle,False,T20I
+1864,JN Mohammed,4,67,3/109,4/176,2,England,Bristol,24 Sep 2017,3915,CH Gayle,False,ODI
+1865,SO Hetmyer,3,40,2/41,3/81,2,Bangladesh,Providence,22 Jul 2018,4022,CH Gayle,False,ODI
+1866,MH Richardson,1,13,-,1/13,1,Australia,Sydney,17 Jan 2002,1786,BB McCullum,False,ODI
+1867,L Vincent,6,1,5/130,6/131,1,India,Auckland,11 Jan 2003,1933,BB McCullum,False,ODI
+1868,CL Cairns,6,18,5/82,6/100,1,Pakistan,Rawalpindi,5 Dec 2003,2073,BB McCullum,False,ODI
+1869,DL Vettori,9,24,8/295,9/319,2,Australia,Wellington,7 Dec 2005,2302,BB McCullum,False,ODI
+1870,DL Vettori,7,21,6/120,7/141,2,West Indies,Queenstown,22 Feb 2006,2335,BB McCullum,False,ODI
+1871,NJ Astle,6,25,5/186,6/211,1,West Indies,Christchurch,25 Feb 2006,2337,BB McCullum,False,ODI
+1872,NJ Astle,3,1,2/56,3/57,2,Sri Lanka,Auckland,26 Dec 2006,12,BB McCullum,False,T20I
+1873,JM How,2,154,1/9,2/163,2,South Africa,Port Elizabeth,30 Nov 2007,2650,BB McCullum,False,ODI
+1874,JM How,1,82,-,1/82,1,Bangladesh,Napier,28 Dec 2007,2659,BB McCullum,False,ODI
+1875,JD Ryder,1,166,-,1/166,2,India,Christchurch,8 Mar 2009,2823,BB McCullum,False,ODI
+1876,LRPL Taylor,2,8,1/51,2/59,2,Scotland,The Oval,6 Jun 2009,91,BB McCullum,False,T20I
+1877,CS Martin,10,0,9/210,10/210,4,Sri Lanka,Galle,18 Aug 2009,1930,BB McCullum,False,Test
+1878,JD Ryder,1,14,-,1/14,1,Sri Lanka,Colombo (RPS),2 Sep 2009,120,BB McCullum,False,T20I
+1879,PJ Ingram,1,1,-,1/1,1,Bangladesh,Napier,5 Feb 2010,2949,BB McCullum,False,ODI
+1880,JDP Oram,6,3,5/179,6/182,2,Pakistan,Christchurch,29 Jan 2011,3090,BB McCullum,False,ODI
+1881,LRPL Taylor,4,4,3/11,4/15,3,India,Auckland,6 Feb 2014,2118,BB McCullum,False,Test
+1882,M Morkel,8,0,7/254,8/254,1,West Indies,Cape Town,25 Jan 2008,2664,JP Duminy,False,ODI
+1883,MV Boucher,6,33,5/172,6/205,2,Australia,Hobart,18 Jan 2009,2796,JP Duminy,False,ODI
+1884,F du Plessis,4,61,3/52,4/113,2,Sri Lanka,Bloemfontein,17 Jan 2012,3227,JP Duminy,False,ODI
+1885,AB de Villiers,4,62,3/59,4/121,1,New Zealand,Auckland,22 Feb 2012,223,JP Duminy,False,T20I
+1886,HM Amla,2,32,1/89,2/121,1,England,Southampton,28 Aug 2012,3298,JP Duminy,False,ODI
+1887,DA Miller,5,9,4/186,5/195,1,Pakistan,Birmingham,10 Jun 2013,3367,JP Duminy,False,ODI
+1888,JH Kallis,5,15,4/234,5/249,1,India,Durban,8 Dec 2013,3443,JP Duminy,False,ODI
+1889,AB de Villiers,3,22,2/98,3/120,1,England,Chattogram,29 Mar 2014,391,JP Duminy,False,T20I
+1890,CH Morris,6,10,5/171,6/181,1,New Zealand,Auckland,17 Feb 2017,595,JP Duminy,False,T20I
+1891,AB de Villiers,4,42,3/115,4/157,1,New Zealand,Wellington,25 Feb 2017,3841,JP Duminy,False,ODI
+1892,DA Miller,5,1,4/129,5/130,2,Sri Lanka,Pallekele,8 Aug 2018,4030,JP Duminy,False,ODI
+1893,DW Steyn,8,3,7/130,8/133,2,Sri Lanka,Cape Town,19 Mar 2019,755,JP Duminy,False,T20I
+1894,NS Poonia,2,22,1/55,2/77,1,Netherlands,Belfast,4 Aug 2008,65,KJ Coetzer,False,T20I
+1895,GM Hamilton,4,0,3/47,4/47,1,Kenya,Nairobi (Gym),1 Feb 2010,129,KJ Coetzer,False,T20I
+1896,RML Taylor,7,18,6/222,7/240,1,Afghanistan,Sharjah,8 Mar 2013,3342,KJ Coetzer,False,ODI
+1897,MH Cross,1,46,-,1/46,1,P.N.G.,Port Moresby,8 Oct 2017,3921,KJ Coetzer,False,ODI
+1898,KJ Coetzer,1,2,-,1/2,2,Netherlands,Edinburgh,11 Jul 2015,433,HG Munsey,False,T20I
+1899,CS MacLeod,2,9,1/10,2/19,2,Namibia,ICCA Dubai,22 Oct 2019,955,HG Munsey,False,T20I
+1900,WTS Porterfield,4,227,3/57,4/284,1,Kenya,Nairobi (Ruaraka),2 Feb 2007,2499,KJ O'Brien,False,ODI
+1901,NJ O'Brien,4,75,3/35,4/110,2,New Zealand,Providence,9 Apr 2007,2566,KJ O'Brien,False,ODI
+1902,DT Johnston,5,39,4/176,5/215,1,Bangladesh,Bridgetown,15 Apr 2007,2572,KJ O'Brien,False,ODI
+1903,AR Cusack,6,73,5/192,6/265,1,Kenya,Nairobi (Gym),18 Oct 2008,2767,KJ O'Brien,False,ODI
+1904,PR Stirling,4,22,3/70,4/92,1,Kenya,Dublin,12 Jul 2009,2861,KJ O'Brien,False,ODI
+1905,NJ O'Brien,3,6,2/90,3/96,2,Canada,Colombo (SSC),3 Feb 2010,130,KJ O'Brien,False,T20I
+1906,JF Mooney,7,44,6/273,7/317,2,England,Bengaluru,2 Mar 2011,3114,KJ O'Brien,False,ODI
+1907,EC Joyce,5,47,4/33,5/80,1,Afghanistan,Dublin,5 Jul 2012,3282,KJ O'Brien,False,ODI
+1908,NJ O'Brien,6,1,5/290,6/291,2,West Indies,Nelson,16 Feb 2015,3603,KJ O'Brien,False,ODI
+1909,WTS Porterfield,3,11,2/52,3/63,2,Hong Kong,Dublin (Malahide),17 Jul 2015,441,KJ O'Brien,False,T20I
+1910,GC Wilson,6,15,5/130,6/145,2,Afghanistan,Belfast,27 Aug 2018,4032,KJ O'Brien,False,ODI
+1911,PR Stirling,1,10,-,1/10,2,Hong Kong,Abu Dhabi,18 Oct 2019,936,KJ O'Brien,False,T20I
+1912,MG Bevan,7,14,6/312,7/326,2,South Africa,Port Elizabeth,6 Apr 2002,1824,SR Watson,False,ODI
+1913,MJ Clarke,2,43,1/41,2/84,1,Bangladesh,Darwin,6 Sep 2008,2762,SR Watson,False,ODI
+1914,SM Katich,1,182,-,1/182,1,Pakistan,Melbourne,26 Dec 2009,1943,SR Watson,False,Test
+1915,DA Warner,1,14,-,1/14,1,Pakistan,Melbourne,5 Feb 2010,134,SR Watson,False,T20I
+1916,BJ Haddin,1,25,-,1/25,2,New Zealand,Hamilton,9 Mar 2010,2971,SR Watson,False,ODI
+1917,PJ Hughes,1,46,-,1/46,3,England,Sydney,3 Jan 2011,1989,SR Watson,False,Test
+1918,DA Warner,2,34,1/22,2/56,1,Sri Lanka,Adelaide,6 Mar 2012,3256,SR Watson,False,ODI
+1919,DA Warner,1,34,-,1/34,1,West Indies,Kingstown,20 Mar 2012,3266,SR Watson,False,ODI
+1920,MEK Hussey,2,31,1/60,2/91,2,Ireland,Colombo (RPS),19 Sep 2012,264,SR Watson,False,T20I
+1921,DA Warner,2,7,1/8,2/15,2,England,Chester-le-Street,31 Aug 2013,329,SR Watson,False,T20I
+1922,GJ Bailey,5,30,4/301,5/331,3,England,Perth,13 Dec 2013,2107,SR Watson,False,Test
+1923,MS Wade,6,1,5/192,6/193,1,England,Southampton,3 Sep 2015,3680,SR Watson,False,ODI
+1924,UT Khawaja,1,62,-,1/62,2,Bangladesh,Bengaluru,21 Mar 2016,544,SR Watson,False,T20I
+1925,KS Williamson,2,5,1/57,2/62,1,Pakistan,Wellington,22 Jan 2016,483,C Munro,False,T20I
+1926,LRPL Taylor,3,112,2/39,3/151,1,Sri Lanka,Mount Maunganui,5 Jan 2019,4075,C Munro,False,ODI
+1927,TL Seifert,2,74,1/22,2/96,2,India,Wellington,31 Jan 2020,1036,C Munro,False,T20I
+1928,CA Pujara,2,53,1/56,2/109,1,Sri Lanka,Colombo (SSC),3 Aug 2017,2267,KL Rahul,False,Test
+1929,RA Jadeja,6,58,5/280,6/338,1,Australia,Rajkot,17 Jan 2020,4232,KL Rahul,False,ODI
+1930,GD Drummond,7,5,6/99,7/104,1,Netherlands,Belfast,4 Aug 2008,65,RD Berrington,False,T20I
+1931,DF Watts,3,0,2/145,3/145,1,Ireland,Amstelveen,10 Jul 2010,3023,RD Berrington,False,ODI
+1932,MA Jones,3,18,2/45,3/63,1,Ireland,ICCA Dubai,16 Jan 2018,3954,RD Berrington,False,ODI
+1933,TB Sole,7,11,6/226,7/237,1,P.N.G.,Aberdeen,20 Aug 2019,4203,RD Berrington,False,ODI
+1934,RD Berrington,1,3,-,1/3,2,Afghanistan,Sharjah,3 Mar 2013,307,CS MacLeod,False,T20I
+1935,KJ Coetzer,3,16,2/35,3/51,2,Kenya,ICCA Dubai,19 Nov 2013,339,CS MacLeod,False,T20I
+1936,MH Cross,3,1,2/47,3/48,2,Afghanistan,Edinburgh,12 Jul 2015,435,CS MacLeod,False,T20I
+1937,RML Taylor,7,18,6/48,7/66,1,Hong Kong,Mong Kok,30 Jan 2016,487,CS MacLeod,False,T20I
+1938,MW Machan,3,10,2/85,3/95,2,Afghanistan,Nagpur,8 Mar 2016,523,CS MacLeod,False,T20I
+1939,MH Cross,6,27,5/171,6/198,1,U.A.E.,Dubai (DSC),30 Oct 2019,989,CS MacLeod,False,T20I
+1940,SM Sharif,6,3,5/185,6/188,2,U.S.A.,ICCA Dubai,14 Dec 2019,4219,CS MacLeod,False,ODI
+1941,Shahid Afridi,2,49,1/0,2/49,2,South Africa,Tangier,18 Aug 2002,1864,Shoaib Malik,False,ODI
+1942,Misbah-ul-Haq,5,61,4/55,5/116,1,Australia,Nairobi (Gym),7 Sep 2002,1873,Shoaib Malik,False,ODI
+1943,Younis Khan,5,32,4/69,5/101,1,Zimbabwe,Sharjah,3 Apr 2003,1994,Shoaib Malik,False,ODI
+1944,Abdul Razzaq,7,12,6/146,7/158,1,Sri Lanka,Dambulla,10 May 2003,2008,Shoaib Malik,False,ODI
+1945,Mohammad Yousuf,5,12,4/61,5/73,1,England,The Oval,20 Jun 2003,2026,Shoaib Malik,False,ODI
+1946,Mohammad Yousuf,5,35,4/170,5/205,2,Bangladesh,Rawalpindi,18 Sep 2003,2044,Shoaib Malik,False,ODI
+1947,Saleem Elahi,5,50,4/171,5/221,1,New Zealand,Lahore,1 Dec 2003,2071,Shoaib Malik,False,ODI
+1948,Yasir Hameed,3,5,2/204,3/209,1,New Zealand,Rawalpindi,7 Dec 2003,2074,Shoaib Malik,False,ODI
+1949,Yasir Hameed,2,5,1/86,2/91,1,Bangladesh,Colombo (SSC),17 Jul 2004,2145,Shoaib Malik,False,ODI
+1950,Younis Khan,3,223,2/51,3/274,1,Hong Kong,Colombo (SSC),18 Jul 2004,2147,Shoaib Malik,False,ODI
+1951,Mohammad Yousuf,4,28,3/65,4/93,2,Australia,Amstelveen,28 Aug 2004,2162,Shoaib Malik,False,ODI
+1952,Abdul Razzaq,6,39,5/188,6/227,2,Sri Lanka,Faisalabad,20 Oct 2004,1716,Shoaib Malik,False,Test
+1953,Mohammad Yousuf,5,2,4/123,5/125,2,Australia,Perth,30 Jan 2005,2215,Shoaib Malik,False,ODI
+1954,Inzamam-ul-Haq,4,55,3/81,4/136,1,West Indies,Gros Islet,21 May 2005,2247,Shoaib Malik,False,ODI
+1955,Younis Khan,5,102,4/68,5/170,1,India,Rawalpindi,11 Feb 2006,2327,Shoaib Malik,False,ODI
+1956,Kamran Akmal,5,32,4/105,5/137,2,Sri Lanka,Abu Dhabi,18 May 2007,2584,Shoaib Malik,False,ODI
+1957,Mohammad Yousuf,4,6,3/70,4/76,1,Zimbabwe,Multan,27 Jan 2008,2665,Shoaib Malik,False,ODI
+1958,Mohammad Yousuf,3,141,2/66,3/207,2,Zimbabwe,Faisalabad,30 Jan 2008,2667,Shoaib Malik,False,ODI
+1959,Misbah-ul-Haq,4,29,3/58,4/87,1,West Indies,Abu Dhabi,14 Nov 2008,2775,Shoaib Malik,False,ODI
+1960,Younis Khan,3,149,2/78,3/227,2,Sri Lanka,Karachi,21 Feb 2009,1909,Shoaib Malik,False,Test
+1961,Umar Gul,9,0,8/170,9/170,2,Australia,Abu Dhabi,27 Apr 2009,2847,Shoaib Malik,False,ODI
+1962,Umar Akmal,4,60,3/16,4/76,1,Australia,Perth,31 Jan 2010,2948,Shoaib Malik,False,ODI
+1963,Mukhtar Ahmed,3,14,2/81,3/95,2,Zimbabwe,Lahore,24 May 2015,418,Shoaib Malik,False,T20I
+1964,Babar Azam,4,7,3/151,4/158,1,Zimbabwe,Lahore,31 May 2015,3653,Shoaib Malik,False,ODI
+1965,Wahab Riaz,8,5,7/156,8/161,1,England,Sharjah,17 Nov 2015,3710,Shoaib Malik,False,ODI
+1966,Mohammad Hafeez,4,23,3/91,4/114,2,India,Birmingham,4 Jun 2017,3878,Shoaib Malik,False,ODI
+1967,Asif Ali,5,23,4/24,5/47,1,Australia,Harare,2 Jul 2018,682,Shoaib Malik,False,T20I
+1968,Asif Ali,5,4,4/96,5/100,1,India,Dubai (DSC),19 Sep 2018,4040,Shoaib Malik,False,ODI
+1969,Faheem Ashraf,6,2,5/121,6/123,1,New Zealand,Abu Dhabi,31 Oct 2018,705,Shoaib Malik,False,T20I
+1970,Shadab Khan,6,27,5/147,6/174,1,South Africa,Cape Town,30 Jan 2019,4090,Shoaib Malik,False,ODI
+1971,Hussain Talat,4,3,3/89,4/92,1,South Africa,Centurion,6 Feb 2019,736,Shoaib Malik,False,T20I
+1972,Salman Butt,4,10,3/74,4/84,2,Australia,Hobart,14 Jan 2010,1947,Umar Akmal,False,Test
+1973,Shahid Afridi,5,73,4/32,5/105,2,Sri Lanka,Dambulla,15 Jun 2010,2991,Umar Akmal,False,ODI
+1974,Azhar Ali,6,57,5/179,6/236,2,England,The Oval,18 Aug 2010,1970,Umar Akmal,False,Test
+1975,Misbah-ul-Haq,4,7,3/29,4/36,1,South Africa,Abu Dhabi,27 Oct 2010,191,Umar Akmal,False,T20I
+1976,Wahab Riaz,8,13,7/252,8/265,1,New Zealand,Hamilton,3 Feb 2011,3095,Umar Akmal,False,ODI
+1977,Misbah-ul-Haq,5,16,4/93,5/109,1,Zimbabwe,Harare,18 Sep 2011,206,Umar Akmal,False,T20I
+1978,Umar Amin,4,32,3/45,4/77,2,West Indies,Kingstown,27 Jul 2013,321,Umar Akmal,False,T20I
+1979,Abdur Rehman,8,26,7/72,8/98,1,South Africa,Dubai (DSC),13 Nov 2013,334,Umar Akmal,False,T20I
+1980,Sohaib Maqsood,4,0,3/76,4/76,2,Sri Lanka,Dubai (DSC),11 Dec 2013,350,Umar Akmal,False,T20I
+1981,Shahid Afridi,6,1,5/299,6/300,1,New Zealand,Sharjah,14 Dec 2014,3568,Umar Akmal,False,ODI
+1982,Younis Khan,5,90,4/82,5/172,2,New Zealand,Abu Dhabi,17 Dec 2014,3570,Umar Akmal,False,ODI
+1983,Shoaib Malik,4,7,3/33,4/40,2,Sri Lanka,Colombo (RPS),1 Aug 2015,449,Umar Akmal,False,T20I
+1984,Sohaib Maqsood,5,32,4/42,5/74,2,England,Dubai (DSC),26 Nov 2015,468,Umar Akmal,False,T20I
+1985,Salman Butt,1,5,-,1/5,1,Australia,Dubai (DSC),24 Apr 2009,2846,Ahmed Shehzad,False,ODI
+1986,Mohammad Hafeez,2,83,1/29,2/112,1,South Africa,Centurion,3 Mar 2013,306,Ahmed Shehzad,False,T20I
+1987,Mohammad Hafeez,1,74,-,1/74,2,South Africa,Abu Dhabi,8 Nov 2013,3431,Ahmed Shehzad,False,ODI
+1988,Umar Akmal,5,4,4/176,5/180,1,South Africa,Port Elizabeth,27 Nov 2013,3440,Ahmed Shehzad,False,ODI
+1989,Mohammad Hafeez,2,160,1/2,2/162,1,Sri Lanka,Sharjah,22 Dec 2013,3447,Ahmed Shehzad,False,ODI
+1990,Sohaib Maqsood,3,6,2/170,3/176,1,U.A.E.,Napier,4 Mar 2015,3622,Ahmed Shehzad,False,ODI
+1991,Babar Azam,2,102,1/61,2/163,1,World-XI,Lahore,15 Sep 2017,621,Ahmed Shehzad,False,T20I
+1992,Faisal Iqbal,2,76,1/21,2/97,2,Sri Lanka,Sharjah,4 Apr 2003,1995,Mohammad Hafeez,False,ODI
+1993,Yasir Hameed,1,62,-,1/62,1,Bangladesh,Multan,9 Sep 2003,2041,Mohammad Hafeez,False,ODI
+1994,Inzamam-ul-Haq,5,26,4/101,5/127,2,England,Bristol,28 Aug 2006,8,Mohammad Hafeez,False,T20I
+1995,Younis Khan,2,27,1/2,2/29,2,England,Southampton,5 Sep 2006,2410,Mohammad Hafeez,False,ODI
+1996,Yasir Hameed,2,56,1/5,2/61,2,Sri Lanka,Abu Dhabi,22 May 2007,2586,Mohammad Hafeez,False,ODI
+1997,Abdul Razzaq,6,11,5/44,6/55,1,England,Cardiff,7 Sep 2010,187,Mohammad Hafeez,False,T20I
+1998,Umar Akmal,3,1,2/68,3/69,2,New Zealand,Hamilton,28 Dec 2010,194,Mohammad Hafeez,False,T20I
+1999,Kamran Akmal,2,48,1/28,2/76,1,Sri Lanka,Colombo (RPS),26 Feb 2011,3109,Mohammad Hafeez,False,ODI
+2000,Taufeeq Umar,1,20,-,1/20,4,Sri Lanka,Sharjah,3 Nov 2011,2014,Mohammad Hafeez,False,Test
+2001,Younis Khan,2,10,1/42,2/52,2,South Africa,Bloemfontein,10 Mar 2013,3343,Mohammad Hafeez,False,ODI
+2002,Ahmed Shehzad,2,76,1/8,2/84,1,Sri Lanka,Dubai (DSC),20 Dec 2013,3446,Mohammad Hafeez,False,ODI
+2003,Sarfaraz Ahmed,2,9,1/51,2/60,2,New Zealand,Dubai (DSC),4 Dec 2014,411,Mohammad Hafeez,False,T20I
+2004,Azhar Ali,2,6,1/53,2/59,2,Bangladesh,Dhaka,17 Apr 2015,3647,Mohammad Hafeez,False,ODI
+2005,Shoaib Malik,3,17,2/16,3/33,2,Sri Lanka,Colombo (RPS),1 Aug 2015,449,Mohammad Hafeez,False,T20I
+2006,Shoaib Malik,4,23,3/17,4/40,2,Zimbabwe,Harare,3 Oct 2015,3686,Mohammad Hafeez,False,ODI
+2007,Younis Khan,3,44,2/3,3/47,3,England,Abu Dhabi,13 Oct 2015,2180,Mohammad Hafeez,False,Test
+2008,Babar Azam,3,65,2/64,3/129,2,England,Dubai (DSC),20 Nov 2015,3712,Mohammad Hafeez,False,ODI
+2009,Rafatullah Mohmand,2,4,1/5,2/9,2,England,Sharjah,30 Nov 2015,473,Mohammad Hafeez,False,T20I
+2010,Shadab Khan,8,29,7/233,8/262,1,New Zealand,Hamilton,16 Jan 2018,3953,Mohammad Hafeez,False,ODI
+2011,R McLaren,7,4,6/116,7/120,1,West Indies,North Sound,20 May 2010,179,DA Miller,False,T20I
+2012,F Behardien,5,31,4/180,5/211,2,New Zealand,Kimberley,22 Jan 2013,3325,DA Miller,False,ODI
+2013,F du Plessis,6,4,5/184,6/188,2,India,Cardiff,6 Jun 2013,3363,DA Miller,False,ODI
+2014,M Morkel,8,1,7/151,8/152,2,Sri Lanka,Chattogram,22 Mar 2014,379,DA Miller,False,T20I
+2015,F du Plessis,3,105,2/21,3/126,1,West Indies,Johannesburg,11 Jan 2015,414,DA Miller,False,T20I
+2016,WD Parnell,6,6,5/147,6/153,2,India,Melbourne,22 Feb 2015,3610,DA Miller,False,ODI
+2017,F du Plessis,4,2,3/140,4/142,1,India,The Oval,11 Jun 2017,3886,DA Miller,False,ODI
+2018,JP Duminy,5,1,4/118,5/119,2,Sri Lanka,Cape Town,19 Mar 2019,755,DA Miller,False,T20I
+2019,Samiullah Shinwari,6,46,5/101,6/147,1,Pakistan,Sharjah,10 Feb 2012,3236,Mohammad Nabi,False,ODI
+2020,Sharafuddin Ashraf,7,33,6/196,7/229,2,Zimbabwe,Bulawayo,22 Jul 2014,3505,Mohammad Nabi,False,ODI
+2021,Samiullah Shinwari,5,14,4/124,5/138,1,Zimbabwe,Bulawayo,20 Oct 2015,3696,Mohammad Nabi,False,ODI
+2022,Gulbadin Naib,3,38,2/95,3/133,2,Zimbabwe,Bulawayo,28 Oct 2015,459,Mohammad Nabi,False,T20I
+2023,Mohammad Shahzad,2,87,1/82,2/169,2,Zimbabwe,Sharjah,29 Dec 2015,3716,Mohammad Nabi,False,ODI
+2024,Asghar Afghan,4,5,3/128,4/133,1,Scotland,Nagpur,8 Mar 2016,523,Mohammad Nabi,False,T20I
+2025,Shafiqullah,6,23,5/161,6/184,1,Zimbabwe,Nagpur,12 Mar 2016,531,Mohammad Nabi,False,T20I
+2026,Rashid Khan,8,27,7/206,8/233,1,Ireland,Greater Noida,12 Mar 2017,601,Mohammad Nabi,False,T20I
+2027,Samiullah Shinwari,5,23,4/44,5/67,1,Ireland,Greater Noida,19 Mar 2017,3852,Mohammad Nabi,False,ODI
+2028,Asghar Afghan,4,15,3/19,4/34,2,West Indies,Basseterre,3 Jun 2017,612,Mohammad Nabi,False,T20I
+2029,Asghar Afghan,5,0,4/130,5/130,1,Ireland,Sharjah,5 Dec 2017,3935,Mohammad Nabi,False,ODI
+2030,Sharafuddin Ashraf,6,1,5/220,6/221,1,Scotland,Bulawayo,4 Mar 2018,3983,Mohammad Nabi,False,ODI
+2031,Rashid Khan,7,8,6/134,7/142,2,Hong Kong,Bulawayo,8 Mar 2018,3990,Mohammad Nabi,False,ODI
+2032,Ihsanullah,3,1,2/144,3/145,4,Ireland,Dehradun,15 Mar 2019,2351,Mohammad Nabi,False,Test
+2033,Gulbadin Naib,5,2,4/75,5/77,1,Australia,Bristol,1 Jun 2019,4146,Mohammad Nabi,False,ODI
+2034,Gulbadin Naib,8,6,7/119,8/125,2,India,Colombo (RPS),19 Sep 2012,265,Najibullah Zadran,False,T20I
+2035,Mohammad Nabi,5,66,4/137,5/203,1,Scotland,Edinburgh,12 Jul 2015,435,Najibullah Zadran,False,T20I
+2036,Karim Sadiq,6,41,5/103,6/144,2,U.A.E.,Fatullah,19 Feb 2016,501,Najibullah Zadran,False,T20I
+2037,Samiullah Shinwari,7,21,6/64,7/85,2,England,Delhi,23 Mar 2016,546,Najibullah Zadran,False,T20I
+2038,Mohammad Nabi,5,36,4/107,5/143,1,Ireland,Dehradun,24 Feb 2019,747,Najibullah Zadran,False,T20I
+2039,Hamid Hassan,9,9,8/136,9/145,2,Sri Lanka,Cardiff,4 Jun 2019,4149,Najibullah Zadran,False,ODI
+2040,Asghar Afghan,4,5,3/189,4/194,2,West Indies,Leeds,4 Jul 2019,4184,Najibullah Zadran,False,ODI
+2041,W Barresi,6,25,5/240,6/265,1,Kenya,Lincoln,23 Jan 2014,3460,BN Cooper,False,ODI
+2042,TLW Cooper,5,16,4/9,5/25,1,Sri Lanka,Chattogram,24 Mar 2014,384,BN Cooper,False,T20I
+2043,Saqib Zulfiqar,3,6,2/46,3/52,1,Ireland,Rotterdam,12 Jun 2018,670,MP O'Dowd,False,T20I
+2044,TS Braat,8,5,7/123,8/128,2,U.A.E.,The Hague,6 Aug 2019,845,MP O'Dowd,False,T20I
+2045,PM Seelaar,3,9,2/9,3/18,2,Scotland,Dublin (Malahide),16 Sep 2019,884,MP O'Dowd,False,T20I
+2046,BN Cooper,2,50,1/19,2/69,1,Ireland,Al Amerat,5 Oct 2019,911,MP O'Dowd,False,T20I
+2047,C Kieswetter,1,27,-,1/27,1,South Africa,Chester-le-Street,8 Sep 2012,258,AD Hales,False,T20I
+2048,LJ Wright,2,69,1/0,2/69,1,Afghanistan,Colombo (RPS),21 Sep 2012,268,AD Hales,False,T20I
+2049,EJG Morgan,3,1,2/60,3/61,1,South Africa,Johannesburg,21 Feb 2016,506,AD Hales,False,T20I
+2050,JJ Roy,1,39,-,1/39,1,India,Pune,15 Jan 2017,3819,AD Hales,False,ODI
+2051,Nawroz Mangal,4,4,3/146,4/150,1,U.A.E.,ICCA Dubai,30 Nov 2014,3558,Asghar Afghan,False,ODI
+2052,Samiullah Shinwari,3,1,2/112,3/113,1,Scotland,Edinburgh,12 Jul 2015,435,Asghar Afghan,False,T20I
+2053,Karim Sadiq,3,24,2/58,3/82,2,Zimbabwe,Bulawayo,26 Oct 2015,458,Asghar Afghan,False,T20I
+2054,Samiullah Shinwari,4,63,3/50,4/113,1,Hong Kong,Abu Dhabi,28 Nov 2015,470,Asghar Afghan,False,T20I
+2055,Noor Ali Zadran,4,35,3/68,4/103,1,Zimbabwe,Sharjah,25 Dec 2015,3713,Asghar Afghan,False,ODI
+2056,Rahmat Shah,4,3,3/52,4/55,2,Bangladesh,Dhaka,1 Oct 2016,3786,Asghar Afghan,False,ODI
+2057,Rashid Khan,7,1,6/160,7/161,1,Bangladesh,Dehradun,3 Jun 2018,667,Asghar Afghan,False,T20I
+2058,Najibullah Zadran,7,11,6/89,7/100,1,Ireland,Belfast,29 Aug 2018,4033,Asghar Afghan,False,ODI
+2059,Mohammad Nabi,7,50,6/81,7/131,1,Ireland,Dehradun,8 Mar 2019,4108,Asghar Afghan,False,ODI
+2060,Naveen-ul-Haq,9,2,8/192,9/194,1,West Indies,Lucknow,6 Nov 2019,4213,Asghar Afghan,False,ODI
+2061,Karim Janat,3,0,2/55,3/55,2,Ireland,Greater Noida,6 Mar 2020,1077,Asghar Afghan,False,T20I
+2062,Noor Ali Zadran,3,47,2/14,3/61,1,Ireland,Dubai (DSC),9 Feb 2010,135,Mohammad Shahzad,False,T20I
+2063,Raees Ahmadzai,4,19,3/32,4/51,1,Netherlands,Dubai (DSC),12 Feb 2010,141,Mohammad Shahzad,False,T20I
+2064,Noor Ali Zadran,3,47,2/7,3/54,1,Scotland,Rotterdam,9 Jul 2010,3019,Mohammad Shahzad,False,ODI
+2065,Samiullah Shinwari,2,73,1/51,2/124,2,Ireland,Greater Noida,8 Mar 2017,599,Mohammad Shahzad,False,T20I
+2066,Noor Ali Zadran,1,68,-,1/68,1,Ireland,Greater Noida,15 Mar 2017,3850,Mohammad Shahzad,False,ODI
+2067,Javed Ahmadi,1,15,-,1/15,2,India,Bengaluru,14 Jun 2018,2307,Mohammad Shahzad,False,Test
+2068,Asghar Afghan,2,32,1/87,2/119,1,Ireland,Bready,20 Aug 2018,696,Mohammad Shahzad,False,T20I
+2069,PR Stirling,1,37,-,1/37,2,Scotland,Amstelveen,10 Jul 2010,3023,A Balbirnie,False,ODI
+2070,JF Mooney,7,4,6/158,7/162,2,Afghanistan,Dubai (DSC),17 Jan 2015,3581,A Balbirnie,False,ODI
+2071,GH Dockrell,8,4,7/322,8/326,1,Zimbabwe,Hobart,7 Mar 2015,3627,A Balbirnie,False,ODI
+2072,KJ O'Brien,4,36,3/65,4/101,1,Scotland,Bready,20 Jun 2015,421,A Balbirnie,False,T20I
+2073,NJ O'Brien,4,20,3/126,4/146,1,Zimbabwe,Harare,11 Oct 2015,3690,A Balbirnie,False,ODI
+2074,PR Stirling,3,48,2/46,3/94,2,Zimbabwe,Harare,13 Oct 2015,3691,A Balbirnie,False,ODI
+2075,SC Getkate,6,15,5/214,6/229,2,Zimbabwe,Bready,1 Jul 2019,4181,A Balbirnie,False,ODI
+2076,MR Adair,6,1,5/93,6/94,1,West Indies,Basseterre,19 Jan 2020,1030,A Balbirnie,False,T20I
+2077,GC Smith,1,13,-,1/13,1,Afghanistan,Bridgetown,5 May 2010,162,LE Bosman,False,T20I
+2078,Ijaz Ahmed,3,33,2/91,3/124,2,West Indies,Sharjah,12 Dec 1997,1260,Shahid Afridi,False,ODI
+2079,Saeed Anwar,1,11,-,1/11,2,Sri Lanka,Benoni,15 Apr 1998,1317,Shahid Afridi,False,ODI
+2080,Wasim Akram,6,15,5/288,6/303,1,Australia,Lahore,10 Nov 1998,1371,Shahid Afridi,False,ODI
+2081,Saeed Anwar,1,16,-,1/16,1,India,Sharjah,13 Apr 1999,1435,Shahid Afridi,False,ODI
+2082,Saeed Anwar,1,21,-,1/21,1,Scotland,Chester-le-Street,20 May 1999,1453,Shahid Afridi,False,ODI
+2083,Ijaz Ahmed,2,61,1/27,2/88,2,Australia,Melbourne,23 Jan 2000,1545,Shahid Afridi,False,ODI
+2084,Saeed Anwar,2,1,1/17,2/18,1,Sri Lanka,Sharjah,13 Apr 2001,1708,Shahid Afridi,False,ODI
+2085,Younis Khan,2,0,1/18,2/18,1,Sri Lanka,Lahore,6 Mar 2002,1592,Shahid Afridi,False,Test
+2086,Mohammad Yousuf,7,15,6/153,7/168,1,Australia,Brisbane,19 Jun 2002,1846,Shahid Afridi,False,ODI
+2087,Younis Khan,6,19,5/219,6/238,1,Zimbabwe,Harare,1 Dec 2002,1907,Shahid Afridi,False,ODI
+2088,Mohammad Yousuf,5,0,4/93,5/93,2,Australia,Amstelveen,28 Aug 2004,2162,Shahid Afridi,False,ODI
+2089,Asim Kamal,5,74,4/164,5/238,3,Australia,Sydney,2 Jan 2005,1731,Shahid Afridi,False,Test
+2090,Abdul Razzaq,7,36,6/97,7/133,2,Australia,Sydney,6 Feb 2005,2222,Shahid Afridi,False,ODI
+2091,Salman Butt,1,27,-,1/27,1,West Indies,Kingstown,18 May 2005,2246,Shahid Afridi,False,ODI
+2092,Mohammad Yousuf,4,46,3/188,4/234,1,England,Karachi,15 Dec 2005,2306,Shahid Afridi,False,ODI
+2093,Mohammad Yousuf,4,12,3/232,4/244,2,India,Peshawar,6 Feb 2006,2324,Shahid Afridi,False,ODI
+2094,Umar Akmal,4,0,3/77,4/77,1,England,Bridgetown,6 May 2010,163,Shahid Afridi,False,T20I
+2095,Abdul Razzaq,7,4,6/181,7/185,1,England,The Oval,17 Sep 2010,3045,Shahid Afridi,False,ODI
+2096,Saeed Ajmal,9,30,8/169,9/199,2,Sri Lanka,Dubai (DSC),14 Nov 2011,3213,Shahid Afridi,False,ODI
+2097,Misbah-ul-Haq,5,7,4/113,5/120,2,England,Abu Dhabi,27 Feb 2012,229,Shahid Afridi,False,T20I
+2098,Mohammad Irfan,9,1,8/231,9/232,2,South Africa,Abu Dhabi,8 Nov 2013,3431,Shahid Afridi,False,ODI
+2099,Fawad Alam,6,69,5/225,6/294,2,Bangladesh,Dhaka,4 Mar 2014,3482,Shahid Afridi,False,ODI
+2100,Haris Sohail,7,110,6/124,7/234,2,New Zealand,Dubai (DSC),8 Dec 2014,3564,Shahid Afridi,False,ODI
+2101,Sarfaraz Ahmed,6,7,5/35,6/42,1,India,Dhaka,27 Feb 2016,512,Shahid Afridi,False,T20I
+2102,KC Sangakkara,3,78,2/133,3/211,1,Pakistan,Dubai (DSC),13 Dec 2013,351,MDKJ Perera,False,T20I
+2103,TM Dilshan,1,49,-,1/49,2,Pakistan,Dubai (DSC),20 Dec 2013,3446,MDKJ Perera,False,ODI
+2104,TM Dilshan,1,120,-,1/120,1,England,Colombo (RPS),26 Nov 2014,3554,MDKJ Perera,False,ODI
+2105,HDRL Thirimanne,2,48,1/164,2/212,1,Pakistan,Hambantota,26 Jul 2015,3672,MDKJ Perera,False,ODI
+2106,TM Dilshan,1,46,-,1/46,2,West Indies,Colombo (RPS),1 Nov 2015,3701,MDKJ Perera,False,ODI
+2107,LD Chandimal,3,30,2/47,3/77,1,England,Birmingham,24 Jun 2016,3753,MDKJ Perera,False,ODI
+2108,MD Gunathilaka,1,8,-,1/8,1,England,The Oval,29 Jun 2016,3757,MDKJ Perera,False,ODI
+2109,N Dickwella,2,1,1/7,2/8,2,West Indies,Harare,16 Nov 2016,3805,MDKJ Perera,False,ODI
+2110,WIA Fernando,2,11,1/93,2/104,1,West Indies,Chester-le-Street,1 Jul 2019,4180,MDKJ Perera,False,ODI
+2111,DD Ebrahim,2,41,1/2,2/43,2,South Africa,Harare,7 Sep 2001,1562,H Masakadza,False,Test
+2112,ADR Campbell,2,37,1/6,2/43,2,South Africa,Bulawayo,23 Sep 2001,1748,H Masakadza,False,ODI
+2113,ADR Campbell,2,4,1/38,2/42,2,South Africa,Harare,29 Sep 2001,1749,H Masakadza,False,ODI
+2114,V Sibanda,3,25,2/27,3/52,2,Bangladesh,Harare,30 Jul 2006,2393,H Masakadza,False,ODI
+2115,BRM Taylor,2,9,1/26,2/35,2,Bangladesh,Jaipur,13 Oct 2006,2427,H Masakadza,False,ODI
+2116,BRM Taylor,2,7,1/21,2/28,1,South Africa,Bulawayo,22 Aug 2007,2612,H Masakadza,False,ODI
+2117,CJ Chibhabha,2,19,1/62,2/81,1,Pakistan,King City (NW),12 Oct 2008,73,H Masakadza,False,T20I
+2118,CJ Chibhabha,2,12,1/28,2/40,1,Sri Lanka,Harare,20 Nov 2008,2779,H Masakadza,False,ODI
+2119,MN Waller,3,34,2/9,3/43,1,Bangladesh,Bulawayo,18 Aug 2009,2874,H Masakadza,False,ODI
+2120,BRM Taylor,4,97,3/209,4/306,1,Kenya,Harare,12 Oct 2009,2908,H Masakadza,False,ODI
+2121,T Taibu,1,10,-,1/10,2,Sri Lanka,Providence,3 May 2010,157,H Masakadza,False,T20I
+2122,AM Blignaut,2,22,1/36,2/58,1,New Zealand,Providence,4 May 2010,159,H Masakadza,False,T20I
+2123,CK Coventry,4,33,3/117,4/150,1,South Africa,Bloemfontein,8 Oct 2010,188,H Masakadza,False,T20I
+2124,V Sibanda,2,86,1/26,2/112,2,Bangladesh,Harare,12 Aug 2011,3176,H Masakadza,False,ODI
+2125,T Taibu,4,36,3/140,4/176,1,Pakistan,Harare,11 Sep 2011,3190,H Masakadza,False,ODI
+2126,RW Chakabva,2,7,1/3,2/10,2,New Zealand,Dunedin,3 Feb 2012,3230,H Masakadza,False,ODI
+2127,V Sibanda,2,20,1/16,2/36,1,India,Bulawayo,1 Aug 2013,3402,H Masakadza,False,ODI
+2128,Sikandar Raza,3,23,2/127,3/150,1,Bangladesh,Khulna,15 Jan 2016,479,H Masakadza,False,T20I
+2129,V Sibanda,1,20,-,1/20,1,Hong Kong,Nagpur,8 Mar 2016,522,H Masakadza,False,T20I
+2130,V Sibanda,1,17,-,1/17,1,Scotland,Nagpur,10 Mar 2016,527,H Masakadza,False,T20I
+2131,SF Mire,1,55,-,1/55,2,Scotland,Edinburgh,15 Jun 2017,3892,H Masakadza,False,ODI
+2132,BRM Taylor,2,85,1/10,2/95,1,Afghanistan,Sharjah,11 Feb 2018,3974,H Masakadza,False,ODI
+2133,TK Musakanda,1,17,-,1/17,2,Afghanistan,Sharjah,19 Feb 2018,3979,H Masakadza,False,ODI
+2134,CR Ervine,3,4,2/59,3/63,2,Bangladesh,Dhaka,21 Oct 2018,4057,H Masakadza,False,ODI
+2135,BRM Taylor,1,25,-,1/25,2,Afghanistan,Dhaka,14 Sep 2019,882,H Masakadza,False,T20I
+2136,BG Rogers,1,39,-,1/39,1,West Indies,Harare,30 Nov 2003,2070,V Sibanda,False,ODI
+2137,SV Carlisle,1,14,-,1/14,1,India,Hobart,14 Jan 2004,2080,V Sibanda,False,ODI
+2138,BRM Taylor,2,0,1/87,2/87,1,Pakistan,Peshawar,3 Oct 2004,2184,V Sibanda,False,ODI
+2139,SV Carlisle,3,32,2/5,3/37,2,New Zealand,Harare,31 Aug 2005,2276,V Sibanda,False,ODI
+2140,BRM Taylor,4,18,3/176,4/194,1,West Indies,Bulawayo,7 Dec 2007,2654,V Sibanda,False,ODI
+2141,SC Williams,2,12,1/23,2/35,1,Pakistan,Sheikhupura,2 Feb 2008,2669,V Sibanda,False,ODI
+2142,S Matsikenyeri,2,48,1/44,2/92,1,Kenya,Mombasa,29 Jan 2009,2807,V Sibanda,False,ODI
+2143,H Masakadza,1,6,-,1/6,1,West Indies,Providence,6 Mar 2010,2970,V Sibanda,False,ODI
+2144,T Taibu,4,13,3/38,4/51,1,West Indies,Kingstown,12 Mar 2010,2974,V Sibanda,False,ODI
+2145,T Taibu,3,110,2/36,3/146,1,Kenya,Kolkata,20 Mar 2011,3140,V Sibanda,False,ODI
+2146,Sikandar Raza,1,31,-,1/31,2,South Africa,Harare,4 Sep 2014,3524,V Sibanda,False,ODI
+2147,Mashrafe Mortaza,6,4,5/128,6/132,2,Pakistan,Nairobi (Gym),2 Sep 2007,18,Mahmudullah,False,T20I
+2148,Mashrafe Mortaza,7,3,6/119,7/122,1,Pakistan,Cape Town,20 Sep 2007,42,Mahmudullah,False,T20I
+2149,Raqibul Hasan,6,2,5/66,6/68,2,Pakistan,Lahore,8 Apr 2008,2696,Mahmudullah,False,ODI
+2150,Mashrafe Mortaza,7,5,6/106,7/111,2,New Zealand,Dhaka,11 Oct 2008,2764,Mahmudullah,False,ODI
+2151,Nazmul Hossain,9,11,8/92,9/103,1,West Indies,Basseterre,2 Aug 2009,117,Mahmudullah,False,T20I
+2152,Mushfiqur Rahim,7,17,6/293,7/310,1,Zimbabwe,Bulawayo,11 Aug 2009,2871,Mahmudullah,False,ODI
+2153,Naeem Islam,6,69,5/105,6/174,2,Zimbabwe,Chattogram,5 Nov 2009,2922,Mahmudullah,False,ODI
+2154,Mushfiqur Rahim,6,21,5/25,6/46,1,New Zealand,Dunedin,8 Feb 2010,2951,Mahmudullah,False,ODI
+2155,Shakib Al Hasan,6,22,5/36,6/58,2,South Africa,Dhaka,19 Mar 2011,3138,Mahmudullah,False,ODI
+2156,Mominul Haque,6,2,5/135,6/137,2,Sri Lanka,Pallekele,31 Mar 2013,312,Mahmudullah,False,T20I
+2157,Mushfiqur Rahim,5,4,4/126,5/130,2,Zimbabwe,Bulawayo,11 May 2013,315,Mahmudullah,False,T20I
+2158,Sabbir Rahman,6,12,5/47,6/59,1,Sri Lanka,Chattogram,14 Feb 2014,358,Mahmudullah,False,T20I
+2159,Mushfiqur Rahim,6,2,5/153,6/155,2,Sri Lanka,Dhaka,20 Feb 2014,3470,Mahmudullah,False,ODI
+2160,Mushfiqur Rahim,5,141,4/99,5/240,1,England,Adelaide,9 Mar 2015,3630,Mahmudullah,False,ODI
+2161,Arafat Sunny,8,12,7/263,8/275,1,Zimbabwe,Dhaka,11 Nov 2015,3706,Mahmudullah,False,ODI
+2162,Mohammad Saifuddin,6,42,5/68,6/110,2,Sri Lanka,Sylhet,18 Feb 2018,651,Mahmudullah,False,T20I
+2163,Sabbir Rahman,5,36,4/68,5/104,1,India,Colombo (RPS),18 Mar 2018,662,Mahmudullah,False,T20I
+2164,Ariful Haque,6,7,5/137,6/144,2,Afghanistan,Dehradun,7 Jun 2018,669,Mahmudullah,False,T20I
+2165,Mushfiqur Rahim,4,87,3/145,4/232,2,West Indies,Providence,25 Jul 2018,4023,Mahmudullah,False,ODI
+2166,RL Powell,5,0,4/74,5/74,2,Australia,Sydney,7 Feb 2001,1685,MN Samuels,False,ODI
+2167,RD Jacobs,6,6,5/208,6/214,1,South Africa,St John's,2 May 2001,1713,MN Samuels,False,ODI
+2168,CL Hooper,4,23,3/124,4/147,2,Sri Lanka,Colombo (RPS),19 Dec 2001,1782,MN Samuels,False,ODI
+2169,CH Gayle,2,10,1/80,2/90,1,India,Ahmedabad,15 Nov 2002,1896,MN Samuels,False,ODI
+2170,WW Hinds,5,29,4/181,5/210,1,Australia,Brisbane,21 Jan 2005,2208,MN Samuels,False,ODI
+2171,S Chanderpaul,5,0,4/193,5/193,1,Zimbabwe,Port of Spain,13 May 2006,2372,MN Samuels,False,ODI
+2172,CS Baugh,6,15,5/233,6/248,1,India,Kingston,18 May 2006,2377,MN Samuels,False,ODI
+2173,DJ Bravo,6,0,5/249,6/249,2,Australia,Kuala Lumpur,18 Sep 2006,2417,MN Samuels,False,ODI
+2174,DM Bravo,3,10,2/67,3/77,1,Pakistan,Gros Islet,23 Apr 2011,3152,MN Samuels,False,ODI
+2175,KA Pollard,5,10,4/52,5/62,2,New Zealand,Basseterre,11 Jul 2012,3288,MN Samuels,False,ODI
+2176,CH Gayle,2,1,1/16,2/17,1,Bangladesh,Dhaka,8 Dec 2012,3313,MN Samuels,False,ODI
+2177,DR Smith,3,32,2/53,3/85,2,South Africa,Durban,16 Jan 2015,3579,MN Samuels,False,ODI
+2178,CH Gayle,2,7,1/8,2/15,1,India,Perth,6 Mar 2015,3625,MN Samuels,False,ODI
+2179,CR Brathwaite,7,42,6/169,7/211,1,Sri Lanka,Colombo (RPS),4 Nov 2015,3702,MN Samuels,False,ODI
+2180,J Charles,2,3,1/62,2/65,1,Sri Lanka,Colombo (RPS),11 Nov 2015,461,MN Samuels,False,T20I
+2181,KC Brathwaite,3,11,2/104,3/115,1,Australia,Sydney,3 Jan 2016,2198,MN Samuels,False,Test
+2182,D Ramdin,4,73,3/167,4/240,2,Australia,Basseterre,13 Jun 2016,3745,MN Samuels,False,ODI
+2183,D Ramdin,4,6,3/87,4/93,2,Pakistan,Abu Dhabi,5 Oct 2016,3789,MN Samuels,False,ODI
+2184,SV Carlisle,5,17,4/11,5/28,2,New Zealand,Harare,7 Aug 2005,1759,BRM Taylor,False,Test
+2185,T Taibu,3,46,2/4,3/50,1,India,Harare,4 Sep 2005,2280,BRM Taylor,False,ODI
+2186,KO Meth,6,34,5/107,6/141,2,West Indies,Port of Spain,14 May 2006,2373,BRM Taylor,False,ODI
+2187,S Matsikenyeri,4,0,3/31,4/31,1,West Indies,Ahmedabad,8 Oct 2006,2424,BRM Taylor,False,ODI
+2188,E Chigumbura,5,9,4/140,5/149,2,Bangladesh,Harare,9 Feb 2007,2516,BRM Taylor,False,ODI
+2189,S Matsikenyeri,6,70,5/133,6/203,2,Ireland,Kingston,15 Mar 2007,2535,BRM Taylor,False,ODI
+2190,SC Williams,5,83,4/59,5/142,1,West Indies,Kingston,19 Mar 2007,2543,BRM Taylor,False,ODI
+2191,E Chigumbura,6,1,5/71,6/72,1,South Africa,Bulawayo,22 Aug 2007,2612,BRM Taylor,False,ODI
+2192,CJ Chibhabha,2,30,1/27,2/57,1,West Indies,Harare,30 Nov 2007,2649,BRM Taylor,False,ODI
+2193,E Chigumbura,5,90,4/202,5/292,1,Bangladesh,Bulawayo,14 Aug 2009,2872,BRM Taylor,False,ODI
+2194,V Sibanda,3,1,2/167,3/168,1,West Indies,Providence,4 Mar 2010,2967,BRM Taylor,False,ODI
+2195,H Masakadza,1,1,-,1/1,1,Bangladesh,Chattogram,12 Dec 2010,3078,BRM Taylor,False,ODI
+2196,H Masakadza,3,0,2/109,3/109,2,India,Harare,26 Jul 2013,3397,BRM Taylor,False,ODI
+2197,Sikandar Raza,3,20,2/46,3/66,2,Pakistan,Harare,31 Aug 2013,3408,BRM Taylor,False,ODI
+2198,SC Williams,3,35,2/145,3/180,1,Afghanistan,Bulawayo,22 Jul 2014,3505,BRM Taylor,False,ODI
+2199,AG Cremer,8,4,7/249,8/253,4,West Indies,Bulawayo,21 Oct 2017,2279,BRM Taylor,False,Test
+2200,Sikandar Raza,3,0,2/65,3/65,1,Afghanistan,Sharjah,5 Feb 2018,643,BRM Taylor,False,T20I
+2201,TS Kamunhukamwe,2,29,1/15,2/44,2,Bangladesh,Sylhet,3 Mar 2020,4251,BRM Taylor,False,ODI
+2202,JP Duminy,5,3,4/115,5/118,1,India,Port Elizabeth,21 Jan 2011,3084,F du Plessis,False,ODI
+2203,JP Duminy,5,0,4/124,5/124,2,England,Chennai,6 Mar 2011,3120,F du Plessis,False,ODI
+2204,AB de Villiers,5,34,4/113,5/147,2,Sri Lanka,Bloemfontein,17 Jan 2012,3227,F du Plessis,False,ODI
+2205,CA Ingram,3,7,2/167,3/174,2,New Zealand,Kimberley,22 Jan 2013,3325,F du Plessis,False,ODI
+2206,DA Miller,5,68,4/153,5/221,1,West Indies,Cardiff,14 Jun 2013,3371,F du Plessis,False,ODI
+2207,AB de Villiers,4,42,3/53,4/95,1,Sri Lanka,Pallekele,26 Jul 2013,3398,F du Plessis,False,ODI
+2208,VD Philander,7,35,6/407,7/442,4,India,Johannesburg,18 Dec 2013,2108,F du Plessis,False,Test
+2209,VD Philander,9,3,8/497,9/500,2,India,Durban,26 Dec 2013,2111,F du Plessis,False,Test
+2210,DA Miller,5,0,4/72,5/72,2,Australia,Durban,4 Mar 2016,519,F du Plessis,False,T20I
+2211,Q de Kock,2,65,1/25,2/90,1,Afghanistan,Mumbai,20 Mar 2016,542,F du Plessis,False,T20I
+2212,DA Miller,5,14,4/53,5/67,2,Pakistan,Lahore,15 Sep 2017,621,F du Plessis,False,T20I
+2213,Mohammad Nabi,6,4,5/93,6/97,1,Ireland,Dubai (DSC),9 Feb 2010,135,Samiullah Shinwari,False,T20I
+2214,Mirwais Ashraf,8,26,7/92,8/118,1,Netherlands,Dubai (DSC),12 Feb 2010,141,Samiullah Shinwari,False,T20I
+2215,Mohammad Nabi,8,9,7/119,8/128,1,Canada,Sharjah,18 Feb 2010,2959,Samiullah Shinwari,False,ODI
+2216,Raees Ahmadzai,7,10,6/97,7/107,1,India,Gros Islet,1 May 2010,153,Samiullah Shinwari,False,T20I
+2217,Mirwais Ashraf,8,7,7/25,8/32,2,South Africa,Bridgetown,5 May 2010,162,Samiullah Shinwari,False,T20I
+2218,Gulbadin Naib,6,12,5/153,6/165,1,Canada,ICCA Dubai,18 Mar 2012,234,Samiullah Shinwari,False,T20I
+2219,Dawlat Zadran,8,8,7/81,8/89,2,Ireland,Dublin,5 Jul 2012,3282,Samiullah Shinwari,False,ODI
+2220,Noor Ali Zadran,5,5,4/73,5/78,1,Kenya,Sharjah,24 Nov 2013,345,Samiullah Shinwari,False,T20I
+2221,Asghar Afghan,6,164,5/90,6/254,1,Bangladesh,Fatullah,1 Mar 2014,3478,Samiullah Shinwari,False,ODI
+2222,Mohammad Nabi,5,13,4/65,5/78,2,Bangladesh,Canberra,18 Feb 2015,3605,Samiullah Shinwari,False,ODI
+2223,Asghar Afghan,4,12,3/160,4/172,1,Zimbabwe,Bulawayo,24 Oct 2015,3699,Samiullah Shinwari,False,ODI
+2224,Shafiqullah,5,30,4/113,5/143,1,Hong Kong,Abu Dhabi,28 Nov 2015,470,Samiullah Shinwari,False,T20I
+2225,Mohammad Nabi,5,12,4/104,5/116,2,U.A.E.,Dubai (DSC),16 Dec 2016,572,Samiullah Shinwari,False,T20I
+2226,Rahmat Shah,5,35,4/124,5/159,1,Zimbabwe,Harare,26 Feb 2017,3842,Samiullah Shinwari,False,ODI
+2227,SG Borthwick,8,23,7/60,8/83,2,West Indies,The Oval,25 Sep 2011,208,JC Buttler,False,T20I
+2228,RS Bopara,5,45,4/139,5/184,2,New Zealand,The Oval,25 Jun 2013,317,JC Buttler,False,T20I
+2229,JC Tredwell,8,2,7/290,8/292,2,Sri Lanka,Lord's,31 May 2014,3495,JC Buttler,False,ODI
+2230,CJ Jordan,7,29,6/170,7/199,1,Sri Lanka,Birmingham,3 Jun 2014,3496,JC Buttler,False,ODI
+2231,JE Root,5,108,4/117,5/225,1,India,Leeds,5 Sep 2014,3525,JC Buttler,False,ODI
+2232,JE Root,6,39,5/84,6/123,2,Sri Lanka,Pallekele,13 Dec 2014,3567,JC Buttler,False,ODI
+2233,CR Woakes,7,0,6/303,7/303,1,Australia,Hobart,23 Jan 2015,3589,JC Buttler,False,ODI
+2234,JWA Taylor,5,1,4/147,5/148,1,Pakistan,Abu Dhabi,11 Nov 2015,3707,JC Buttler,False,ODI
+2235,JM Vince,5,7,4/68,5/75,1,Pakistan,Sharjah,30 Nov 2015,473,JC Buttler,False,T20I
+2236,JE Root,5,16,4/203,5/219,2,Pakistan,Lord's,27 Aug 2016,3771,JC Buttler,False,ODI
+2237,DJ Willey,8,31,7/253,8/284,1,New Zealand,Hamilton,25 Feb 2018,3980,JC Buttler,False,ODI
+2238,BA Stokes,6,8,5/245,6/253,4,Australia,Leeds,22 Aug 2019,2357,JC Buttler,False,Test
+2239,AJ Finch,1,11,-,1/11,2,Pakistan,Dubai (DSC),26 Oct 2018,702,DJM Short,False,T20I
+2240,PSP Handscomb,4,12,3/89,4/101,2,India,Visakhapatnam,24 Feb 2019,748,DJM Short,False,T20I
+2241,SB Styris,4,2,3/47,4/49,2,England,Auckland,5 Feb 2008,53,JD Ryder,False,T20I
+2242,BB McCullum,1,103,-,1/103,2,England,Christchurch,23 Feb 2008,2684,JD Ryder,False,ODI
+2243,AJ Redmond,2,90,1/55,2/145,4,Bangladesh,Chattogram,17 Oct 2008,1888,JD Ryder,False,Test
+2244,MJ Guptill,4,36,3/99,4/135,1,Pakistan,Hamilton,7 Jan 2011,1990,JD Ryder,False,Test
+2245,MJ Guptill,1,0,-,1/0,2,Pakistan,Hamilton,3 Feb 2011,3095,JD Ryder,False,ODI
+2246,TL Best,9,4,8/208,9/212,1,New Zealand,Cardiff,3 Jul 2004,2138,DR Smith,False,ODI
+2247,D Ganga,3,14,2/28,3/42,1,New Zealand,Auckland,16 Feb 2006,5,DR Smith,False,T20I
+2248,WW Hinds,6,28,5/130,6/158,1,New Zealand,Queenstown,22 Feb 2006,2335,DR Smith,False,ODI
+2249,S Chanderpaul,6,1,5/147,6/148,2,Sri Lanka,Providence,1 Apr 2007,2560,DR Smith,False,ODI
+2250,RS Morton,7,5,6/199,7/204,1,England,The Oval,28 Jun 2007,15,DR Smith,False,T20I
+2251,DJ Bravo,7,3,6/158,7/161,1,England,The Oval,29 Jun 2007,16,DR Smith,False,T20I
+2252,LMP Simmons,6,38,5/80,6/118,2,Australia,Melbourne,19 Feb 2010,2960,DR Smith,False,ODI
+2253,VV Morea,1,56,-,1/56,1,Hong Kong,Mong Kok,8 Nov 2016,3803,TP Ura,False,ODI
+2254,VV Morea,1,16,-,1/16,1,U.A.E.,Abu Dhabi,2 Apr 2017,3859,TP Ura,False,ODI
+2255,L Siaka,2,4,1/26,2/30,1,Scotland,Dubai (DSC),25 Nov 2017,3934,TP Ura,False,ODI
+2256,N Vanua,1,4,-,1/4,2,U.S.A.,Lauderhill,13 Sep 2019,4205,TP Ura,False,ODI
+2257,J Kila,9,3,8/210,9/213,2,Namibia,Lauderhill,23 Sep 2019,4210,A Vala,False,ODI
+2258,L Siaka,2,24,1/5,2/29,1,Netherlands,Dubai (DSC),2 Nov 2019,997,A Vala,False,T20I
+2259,Mohammad Nabi,3,53,2/83,3/136,1,Scotland,Benoni,19 Apr 2009,2842,Nawroz Mangal,False,ODI
+2260,Mohammad Nabi,4,1,3/139,4/140,2,Pakistan,Fatullah,27 Feb 2014,3475,Nawroz Mangal,False,ODI
+2261,Asghar Afghan,4,31,3/43,4/74,1,Bangladesh,Fatullah,1 Mar 2014,3478,Nawroz Mangal,False,ODI
+2262,Mohammad Nabi,4,0,3/36,4/36,1,Bangladesh,Dhaka,16 Mar 2014,366,Nawroz Mangal,False,T20I

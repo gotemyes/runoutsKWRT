@@ -4,10 +4,22 @@ import pandas as pd
 
 def runouts_scrape():
 
-    top50 = pd.read_csv('../data/top50TestPartnerships.csv')
+    top50Test = pd.read_csv('../data/top50TestPartnerships.csv')
+    top50ODI = pd.read_csv('../data/top50ODIPartnerships.csv')
+    top50T20I = pd.read_csv('../data/top50T20IPartnerships.csv')
+    top50All = pd.read_csv('../data/top50AllPartnerships.csv')
 
     idDict = {}
-    for ind,row in top50.iterrows():
+    for ind,row in top50Test.iterrows():
+        idDict[row['Batsman1']] = row['Batsman1ID']
+        idDict[row['Batsman2']] = row['Batsman2ID']
+    for ind,row in top50ODI.iterrows():
+        idDict[row['Batsman1']] = row['Batsman1ID']
+        idDict[row['Batsman2']] = row['Batsman2ID']
+    for ind,row in top50T20I.iterrows():
+        idDict[row['Batsman1']] = row['Batsman1ID']
+        idDict[row['Batsman2']] = row['Batsman2ID']
+    for ind,row in top50All.iterrows():
         idDict[row['Batsman1']] = row['Batsman1ID']
         idDict[row['Batsman2']] = row['Batsman2ID']
 
