@@ -48,6 +48,7 @@ def find_partnership(bat1,bat2,format):
             '100',
             '50']].copy()
 
+        df['Rank'] = [el+1 for el in df.index.to_list()]
         df['Inns'] = pd.to_numeric(df['Inns'])
         df['NO'] = pd.to_numeric(df['NO'])
         df['HighNO'] = df.apply(lambda row: True if row['High'][-1]=='*' else False, axis=1)
@@ -69,7 +70,6 @@ def find_partnership(bat1,bat2,format):
         df.drop(columns=['Span','Partners'],inplace=True)
 
         df.columns.name=''
-
         onlyKWRT = df[
             ((df['Batsman1']=='KS Williamson')|(df['Batsman2']=='KS Williamson'))&
             ((df['Batsman1']=='LRPL Taylor')|(df['Batsman2']=='LRPL Taylor'))]
@@ -79,6 +79,7 @@ def find_partnership(bat1,bat2,format):
         page+=1
 
     onlyKWRT.index = (page-2)*50+onlyKWRT.index.values
+    onlyKWRT.at[onlyKWRT.index.values[0],'Rank']= (page-2)*50+onlyKWRT.Rank
     return onlyKWRT
 
 def augmentation():
@@ -107,24 +108,29 @@ def augmentation():
     if len(testKWRT)==0:
         print('KWRT not in top 50 tests: scraping and appending')
         testKWRT = find_partnership('KS Williamson','LRPL Taylor','Test')
-        tests.append(testKWRT)
+        tests = tests.append(testKWRT)
+        tests.to_csv('../data/top50TestPartnerships.csv')
     if len(odiKWRT)==0:
         print('KWRT not in top 50 odi: scraping and appending')
         odiKWRT = find_partnership('KS Williamson','LRPL Taylor','ODI')
-        odis.append(odiKWRT)
+        odis = odis.append(odiKWRT)
+        odis.to_csv('../data/top50ODIPartnerships.csv')
     if len(t20iKWRT)==0:
         print('KWRT not in top 50 t20is: scraping and appending')
         t20iKWRT = find_partnership('KS Williamson','LRPL Taylor','T20I')
-        t20is.append(t20iKWRT)
+        t20is = t20is.append(t20iKWRT)
+        t20is.to_csv('../data/top50T20IPartnerships.csv')
     if len(allKWRT)==0:
         print('KWRT not in top 50 all: scraping and appending')
         allKWRT = find_partnership('KS Williamson','LRPL Taylor','All')
-        all.append(allKWRT)
+        all = all.append(allKWRT)
+        all.to_csv('../data/top50AllPartnerships.csv')
 
-    print(testKWRT)
-    print(odiKWRT)
-    print(t20iKWRT)
-    print(allKWRT)
+    #print(testKWRT)
+    #print(odiKWRT)
+    #print(t20iKWRT)
+    #print(allKWRT)
+
 
 if __name__ == '__main__':
     augmentation()
